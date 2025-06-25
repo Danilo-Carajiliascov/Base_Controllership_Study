@@ -1,0 +1,56 @@
+id_material,descr_material,id_grupo_material,descr_grupo_material,id_familia_material,descr_familia_material
+12.18.0002,Comp_Aço,12.0,Componentes,18.0,Componentes Metalicos
+12.18.0001,Comp_Aluminio,12.0,Componentes,18.0,Componentes Metalicos
+11.19.0001,Espuma,11.0,Materia-prima,19.0,Espumas
+12.20.0001,Comp_Plastico,12.0,Componentes,20.0,Componentes Plasticos
+11.21.0001,Tecido,11.0,Materia-prima,21.0,Tecidos
+12.22.0001,Comp_Vidro,12.0,Componentes,22.0,Componentes de Vidro
+22.14.0001,Equip_ADM,22.0,Ativos nao Produtivos,14.0,Equip Moveis Escritorio
+22.11.0001,Equip_almox,22.0,Ativos nao Produtivos,11.0,Maq Equip Armazenagem
+21.01.0001,Equip_Emb_1,21.0,Ativos Produtivos,1.0,Maq Equip Embalagens
+21.01.0002,Equip_Emb_2,21.0,Ativos Produtivos,1.0,Maq Equip Embalagens
+22.10.0001,Equip_Engenharia_1,22.0,Ativos nao Produtivos,10.0,Maq Equip Engenharia
+22.10.0002,Equip_Engenharia_2,22.0,Ativos nao Produtivos,10.0,Maq Equip Engenharia
+21.02.0001,Equip_Estof_1,21.0,Ativos Produtivos,2.0,Maq Equip Estofamento
+21.02.0002,Equip_Estof_2,21.0,Ativos Produtivos,2.0,Maq Equip Estofamento
+21.03.0001,Equip_Exped_1,21.0,Ativos Produtivos,3.0,Maq Equip Expedicao
+21.03.0002,Equip_Exped_2,21.0,Ativos Produtivos,3.0,Maq Equip Expedicao
+22.09.0001,Equip_Ferr/Manut_1,22.0,Ativos nao Produtivos,9.0,Maq Equip ferr_manut
+22.09.0002,Equip_Ferr/Manut_2,22.0,Ativos nao Produtivos,9.0,Maq Equip ferr_manut
+22.13.0001,Equip_fin,22.0,Ativos nao Produtivos,13.0,Maq Equip TI
+21.04.0001,Equip_Mont_1,21.0,Ativos Produtivos,4.0,Maq Equip Montagem
+21.04.0002,Equip_Mont_2,21.0,Ativos Produtivos,4.0,Maq Equip Montagem
+20.14.0001,Equip_Prod/Suppl,20.0,Ativos nao Produtivos,14.0,Equip Moveis Escritorio
+21.05.0001,Equip_Producao,21.0,Ativos Produtivos,5.0,Maq Equip Producao
+22.12.0001,Equip_qualidade,22.0,Ativos nao Produtivos,12.0,Maq Equip Qualidade
+21.06.0001,Equip_Receb_1,21.0,Ativos Produtivos,6.0,Maq Equip Recebimento
+21.06.0002,Equip_Receb_2,21.0,Ativos Produtivos,6.0,Maq Equip Recebimento
+22.13.0002,Equip_RH,22.0,Ativos nao Produtivos,13.0,Maq Equip TI
+22.08.0001,Equip_SupplyChain,22.0,Ativos nao Produtivos,8.0,Maq Equip supplychain
+22.13.0003,Equip_TI_1,22.0,Ativos nao Produtivos,13.0,Maq Equip TI
+22.13.0004,Equip_TI_2,22.0,Ativos nao Produtivos,13.0,Maq Equip TI
+15.31.0001,itens_adm,15.0,Mat.Serv. nao Produtivos,31.0,Mat.Serv.Gerais ADM
+15.32.0001,itens_almox,15.0,Mat.Serv. nao Produtivos,32.0,Mat.Serv.Gerais Almox
+15.23.0001,Aluguel IPTU AGUA,15.0,Mat.Serv. nao Produtivos,23.0,Ocupacao e Ctas de Consumo
+15.41.0001,Energia / Consumiveis,15.0,Mat.Serv. nao Produtivos,41.0,Consumiveis Diretos
+15.24.0001,itens_comercial,15.0,Mat.Serv. nao Produtivos,24.0,Mat.Serv.Gerais Comerc
+15.33.0001,itens_corte,15.0,Mat.Serv. nao Produtivos,33.0,Mat.Serv.Gerais Corte
+15.34.0001,itens_emb,15.0,Mat.Serv. nao Produtivos,34.0,Mat.Serv.Gerais Emb
+15.25.0001,itens_engenharia,15.0,Mat.Serv. nao Produtivos,25.0,Mat.Serv.Gerais Eng
+15.35.0001,itens_estof,15.0,Mat.Serv. nao Produtivos,35.0,Mat.Serv.Gerais Estof
+15.36.0001,itens_exped,15.0,Mat.Serv. nao Produtivos,36.0,Mat.Serv.Gerais Exped
+15.37.0001,itens_ferr_manut,15.0,Mat.Serv. nao Produtivos,37.0,Mat.Serv.Gerais FerrManut
+15.26.0001,itens_fin_contr,15.0,Mat.Serv. nao Produtivos,26.0,Mat.Serv.Gerais Fin
+15.38.0001,itens_frete,15.0,Mat.Serv. nao Produtivos,38.0,Mat.Serv.Gerais Frete
+15.39.0001,itens_mont,15.0,Mat.Serv. nao Produtivos,39.0,Mat.Serv.Gerais Mont
+15.27.0001,itens_qualidade,15.0,Mat.Serv. nao Produtivos,27.0,Mat.Serv.Gerais Qualid
+15.40.0001,itens_receb,15.0,Mat.Serv. nao Produtivos,40.0,Mat.Serv.Gerais Receb
+15.28.0001,itens_rh,15.0,Mat.Serv. nao Produtivos,28.0,Mat.Serv.Gerais RH
+15.29.0001,itens_supply_prod,15.0,Mat.Serv. nao Produtivos,29.0,Mat.Serv.Gerais Supply
+15.30.0001,itens_ti,15.0,Mat.Serv. nao Produtivos,30.0,Mat.Serv.Gerais TI
+11.16.0001,Madeira,11.0,Materia-prima,16.0,Chapas de Madeira
+21.07.0001,Maq_Corte_1,21.0,Ativos Produtivos,7.0,Maq Equip Corte
+21.07.0002,Maq_Corte_2,21.0,Ativos Produtivos,7.0,Maq Equip Corte
+11.17.0001,MDF,11.0,Materia-prima,17.0,Chapas de MDF
+23.15.0001,Veic_SupplyChain,23.0,Ativos Veiculos,15.0,caminhoes
+54,,,6,,41

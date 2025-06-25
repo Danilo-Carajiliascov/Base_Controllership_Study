@@ -1,0 +1,153 @@
+centro_de_custo,descr_ccusto,categoria_ccusto,classif_ccusto,ccusto
+3.01.01,Móveis de Escritório/Sala/Decoração,Receita,Direto,.01.01
+3.01.02,Frete de Vendas,Gastos Gerais,Direto,.01.02
+3.01.03,"ISS, ICMS,IBS,PIS, COFINS,CBS, IPI,IS",Tributos Indiretos,Direto,.01.03
+3.02.01,Materiais e Serviços Diretos,Materiais Diretos,Direto,.02.01
+3.02.02,Fretes Materiais e Serviços Diretos,Gastos Gerais,Direto,.02.02
+3.02.03,Energia El. e outros consumiveis,Materiais Diretos,Direto,.02.03
+3.03.01,Recebimento,Gastos Gerais,Direto,.03.01
+3.03.05,Corte,Gastos Gerais,Direto,.03.05
+3.03.10,Montagem,Gastos Gerais,Direto,.03.10
+3.03.15,Estofamento,Gastos Gerais,Direto,.03.15
+3.03.20,Embalagem,Gastos Gerais,Direto,.03.20
+3.03.25,Expedição,Gastos Gerais,Direto,.03.25
+3.03.30,Supply Chain,Gastos Gerais,Indireto,.03.30
+3.03.31,"Aluguel,IPTU,Água,Internet",Gastos Gerais,Indireto,.03.31
+3.03.32,Produção,Gastos Gerais,Indireto,.03.32
+3.03.34,Engenharia,Gastos Gerais,Indireto,.03.34
+3.03.36,Ferramentaria / Manutenção,Gastos Gerais,Indireto,.03.36
+3.03.38,Manutenção,Gastos Gerais,Indireto,.03.38
+3.03.40,Qualidade,Gastos Gerais,Indireto,.03.40
+3.03.42,Almoxarifado,Gastos Gerais,Indireto,.03.42
+3.03.60,Administrativo,Gastos Gerais,Administrativo,.03.60
+3.03.62,Financeiro / Controladoria,Gastos Gerais,Administrativo,.03.62
+3.03.63,Receita/Despesas Financeiras,Rec./Desp. Fin.,Rec./Desp. Fin.,.03.63
+3.03.64,Controladoria,Gastos Gerais,Administrativo,.03.64
+3.03.66,RH,Gastos Gerais,Administrativo,.03.66
+3.03.68,TI,Gastos Gerais,Administrativo,.03.68
+3.03.70,Comercial,Gastos Gerais,Administrativo,.03.70
+3.03.72,IRPJ e CSLL,Gastos Gerais,Administrativo,.03.72
+3.04.01,Recebimento / Expedição,Mão-de-Obra,Direto,.04.01
+3.04.05,Corte,Mão-de-Obra,Direto,.04.05
+3.04.10,Montagem / Estofamento / Embalagem,Mão-de-Obra,Direto,.04.10
+3.04.15,Estofamento,Mão-de-Obra,Direto,.04.15
+3.04.20,Embalagem,Mão-de-Obra,Direto,.04.20
+3.04.25,Expedição,Mão-de-Obra,Direto,.04.25
+3.04.30,Supply Chain,Mão-de-Obra,Indireto,.04.30
+3.04.32,Produção,Mão-de-Obra,Indireto,.04.32
+3.04.34,Engenharia,Mão-de-Obra,Indireto,.04.34
+3.04.36,Ferramentaria / Manutenção,Mão-de-Obra,Indireto,.04.36
+3.04.38,Manutenção,Mão-de-Obra,Indireto,.04.38
+3.04.40,Qualidade,Mão-de-Obra,Indireto,.04.40
+3.04.42,Almoxarifado,Mão-de-Obra,Indireto,.04.42
+3.04.60,Administrativo,Mão-de-Obra,Administrativo,.04.60
+3.04.62,Financeiro / Controladoria,Mão-de-Obra,Administrativo,.04.62
+3.04.64,Controladoria,Mão-de-Obra,Administrativo,.04.64
+3.04.66,RH,Mão-de-Obra,Administrativo,.04.66
+3.04.68,TI,Mão-de-Obra,Administrativo,.04.68
+3.04.70,Comercial,Mão-de-Obra,Administrativo,.04.70
+3.05.01,Recebimento,Investimentos,Direto,.05.01
+3.05.05,Corte,Investimentos,Direto,.05.05
+3.05.10,Montagem,Investimentos,Direto,.05.10
+3.05.15,Estofamento,Investimentos,Direto,.05.15
+3.05.20,Embalagem,Investimentos,Direto,.05.20
+3.05.25,Expedição,Investimentos,Direto,.05.25
+3.05.30,Supply Chain,Investimentos,Indireto,.05.30
+3.05.32,Produção,Investimentos,Indireto,.05.32
+3.05.34,Engenharia,Investimentos,Indireto,.05.34
+3.05.36,Ferramentaria / Manutenção,Investimentos,Indireto,.05.36
+3.05.38,Manutenção,Investimentos,Indireto,.05.38
+3.05.40,Qualidade,Investimentos,Indireto,.05.40
+3.05.42,Almoxarifado,Investimentos,Indireto,.05.42
+3.05.60,Administrativo,Investimentos,Administrativo,.05.60
+3.05.62,Financeiro / Controladoria,Investimentos,Administrativo,.05.62
+3.05.64,Controladoria,Investimentos,Administrativo,.05.64
+3.05.66,RH,Investimentos,Administrativo,.05.66
+3.05.68,TI,Investimentos,Administrativo,.05.68
+3.05.70,Comercial,Investimentos,Administrativo,.05.70
+3.09.01,Embalagens Retornaveis,Simples Remessa,Simples Remessa,.09.01
+3.09.02,Beneficiamento,Simples Remessa,Simples Remessa,.09.02
+3.09.03,Concerto/Manutencao,Simples Remessa,Simples Remessa,.09.03
+3.09.04,Comodato,Simples Remessa,Simples Remessa,.09.04
+3.09.05,Amostra/Demonstracao,Simples Remessa,Simples Remessa,.09.05
+3.09.06,Devolucao de Prod. com Nf de Origem     ,Simples Remessa,Simples Remessa,.09.06
+3.09.07,Transf Bens Filial/Matriz,Simples Remessa,Simples Remessa,.09.07
+3.09.08,Transf Numerarios Filial/Matriz,Simples Remessa,Simples Remessa,.09.08
+3.09.09,Pgto Principal Financiamentos,Simples Remessa,Simples Remessa,.09.09
+3.09.10,Baixa zerada para financiamento,Simples Remessa,Simples Remessa,.09.10
+4.01.01,Móveis de Escritório/Sala/Decoração,Receita,Direto,.01.01
+4.01.02,Frete de Vendas,Gastos Gerais,Direto,.01.02
+4.01.03,"ISS, ICMS,IBS,PIS, COFINS,CBS, IPI,IS",Tributos Indiretos,Direto,.01.03
+4.02.01,Materiais e Serviços Diretos,Materiais Diretos,Direto,.02.01
+4.02.02,Fretes Materiais e Serviços Diretos,Gastos Gerais,Direto,.02.02
+4.02.03,Energia El. e outros consumiveis,Materiais Diretos,Direto,.02.03
+4.03.01,Recebimento,Gastos Gerais,Direto,.03.01
+4.03.05,Corte,Gastos Gerais,Direto,.03.05
+4.03.10,Montagem,Gastos Gerais,Direto,.03.10
+4.03.15,Estofamento,Gastos Gerais,Direto,.03.15
+4.03.20,Embalagem,Gastos Gerais,Direto,.03.20
+4.03.25,Expedição,Gastos Gerais,Direto,.03.25
+4.03.30,Supply Chain,Gastos Gerais,Indireto,.03.30
+4.03.31,"Aluguel,IPTU,Água,Internet",Gastos Gerais,Indireto,.03.31
+4.03.32,Produção,Gastos Gerais,Indireto,.03.32
+4.03.34,Engenharia,Gastos Gerais,Indireto,.03.34
+4.03.36,Ferramentaria / Manutenção,Gastos Gerais,Indireto,.03.36
+4.03.38,Manutenção,Gastos Gerais,Indireto,.03.38
+4.03.40,Qualidade,Gastos Gerais,Indireto,.03.40
+4.03.42,Almoxarifado,Gastos Gerais,Indireto,.03.42
+4.03.60,Administrativo,Gastos Gerais,Administrativo,.03.60
+4.03.62,Financeiro / Controladoria,Gastos Gerais,Administrativo,.03.62
+4.03.63,Receita/Despesas Financeiras,Rec./Desp. Fin.,Rec./Desp. Fin.,.03.63
+4.03.64,Controladoria,Gastos Gerais,Administrativo,.03.64
+4.03.66,RH,Gastos Gerais,Administrativo,.03.66
+4.03.68,TI,Gastos Gerais,Administrativo,.03.68
+4.03.70,Comercial,Gastos Gerais,Administrativo,.03.70
+4.03.72,IRPJ e CSLL,Gastos Gerais,Administrativo,.03.72
+4.04.01,Recebimento / Expedição,Mão-de-Obra,Direto,.04.01
+4.04.05,Corte,Mão-de-Obra,Direto,.04.05
+4.04.10,Montagem / Estofamento / Embalagem,Mão-de-Obra,Direto,.04.10
+4.04.15,Estofamento,Mão-de-Obra,Direto,.04.15
+4.04.20,Embalagem,Mão-de-Obra,Direto,.04.20
+4.04.25,Expedição,Mão-de-Obra,Direto,.04.25
+4.04.30,Supply Chain,Mão-de-Obra,Indireto,.04.30
+4.04.32,Produção,Mão-de-Obra,Indireto,.04.32
+4.04.34,Engenharia,Mão-de-Obra,Indireto,.04.34
+4.04.36,Ferramentaria / Manutenção,Mão-de-Obra,Indireto,.04.36
+4.04.38,Manutenção,Mão-de-Obra,Indireto,.04.38
+4.04.40,Qualidade,Mão-de-Obra,Indireto,.04.40
+4.04.42,Almoxarifado,Mão-de-Obra,Indireto,.04.42
+4.04.60,Administrativo,Mão-de-Obra,Administrativo,.04.60
+4.04.62,Financeiro / Controladoria,Mão-de-Obra,Administrativo,.04.62
+4.04.64,Controladoria,Mão-de-Obra,Administrativo,.04.64
+4.04.66,RH,Mão-de-Obra,Administrativo,.04.66
+4.04.68,TI,Mão-de-Obra,Administrativo,.04.68
+4.04.70,Comercial,Mão-de-Obra,Administrativo,.04.70
+4.05.01,Recebimento,Investimentos,Direto,.05.01
+4.05.05,Corte,Investimentos,Direto,.05.05
+4.05.10,Montagem,Investimentos,Direto,.05.10
+4.05.15,Estofamento,Investimentos,Direto,.05.15
+4.05.20,Embalagem,Investimentos,Direto,.05.20
+4.05.25,Expedição,Investimentos,Direto,.05.25
+4.05.30,Supply Chain,Investimentos,Indireto,.05.30
+4.05.32,Produção,Investimentos,Indireto,.05.32
+4.05.34,Engenharia,Investimentos,Indireto,.05.34
+4.05.36,Ferramentaria / Manutenção,Investimentos,Indireto,.05.36
+4.05.38,Manutenção,Investimentos,Indireto,.05.38
+4.05.40,Qualidade,Investimentos,Indireto,.05.40
+4.05.42,Almoxarifado,Investimentos,Indireto,.05.42
+4.05.60,Administrativo,Investimentos,Administrativo,.05.60
+4.05.62,Financeiro / Controladoria,Investimentos,Administrativo,.05.62
+4.05.64,Controladoria,Investimentos,Administrativo,.05.64
+4.05.66,RH,Investimentos,Administrativo,.05.66
+4.05.68,TI,Investimentos,Administrativo,.05.68
+4.05.70,Comercial,Investimentos,Administrativo,.05.70
+4.09.01,Embalagens Retornaveis,Simples Remessa,Simples Remessa,.09.01
+4.09.02,Beneficiamento,Simples Remessa,Simples Remessa,.09.02
+4.09.03,Concerto/Manutencao,Simples Remessa,Simples Remessa,.09.03
+4.09.04,Comodato,Simples Remessa,Simples Remessa,.09.04
+4.09.05,Amostra/Demonstracao,Simples Remessa,Simples Remessa,.09.05
+4.09.06,Devolucao de Prod. com Nf de Origem     ,Simples Remessa,Simples Remessa,.09.06
+4.09.07,Transf Bens Filial/Matriz,Simples Remessa,Simples Remessa,.09.07
+4.09.08,Transf Numerarios Filial/Matriz,Simples Remessa,Simples Remessa,.09.08
+4.09.09,Pgto Principal Financiamentos,Parcel./Financ.,Parcel./Financ.,.09.09
+4.09.10,Baixa zerada para financiamento,Simples Remessa,Simples Remessa,.09.10

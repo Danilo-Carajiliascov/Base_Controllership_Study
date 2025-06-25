@@ -1,0 +1,974 @@
+id_cliente,descr_cliente,id_grupo_contabil,grupo_contabil,uf,cidade,latitude,longitude,regiao,data_cadestro
+800,Cliente Vendas Prod. 0800,3.01.01,Vendas de Produtos,RS,RS_bento goncalves,-29.1651606,-51.5141846,Sudeste,2017-01-26 22:55:10
+801,Cliente Vendas Prod. 0801,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,Sudeste,2017-01-27 15:30:59
+802,Cliente Vendas Prod. 0802,3.01.01,Vendas de Produtos,RJ,RJ_rio de janeiro,-22.9149109,-43.3128773,Sudeste,2017-01-28 10:30:56
+803,Cliente Vendas Prod. 0803,3.01.01,Vendas de Produtos,BA,BA_tucano,-10.9714092,-38.7891195,Sudeste,2017-01-28 20:31:36
+804,Cliente Vendas Prod. 0804,3.01.01,Vendas de Produtos,SP,SP_itapevi,-23.5486294,-46.9461231,Sul,2017-01-31 04:41:19
+805,Cliente Vendas Prod. 0805,3.01.01,Vendas de Produtos,MG,MG_montes claros,-16.7284812,-43.8608422,Sudeste,2017-01-31 12:03:45
+806,Cliente Vendas Prod. 0806,3.01.01,Vendas de Produtos,RJ,RJ_rio de janeiro,-22.9149109,-43.3128773,Sudeste,2017-02-01 09:21:08
+807,Cliente Vendas Prod. 0807,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,Nordeste,2017-02-01 15:41:41
+808,Cliente Vendas Prod. 0808,3.01.01,Vendas de Produtos,MG,MG_belo horizonte,-19.9087721,-43.9575494,Sudeste,2017-02-01 22:35:33
+810,Cliente Vendas Prod. 0810,3.01.01,Vendas de Produtos,MG,MG_mariana,-20.3749723,-43.4180852,Sudeste,2017-02-01 23:45:14
+811,Cliente Vendas Prod. 0811,3.01.01,Vendas de Produtos,SP,SP_cosmopolis,-22.6398317,-47.1887362,Sudeste,2017-02-01 23:45:16
+812,Cliente Vendas Prod. 0812,3.01.01,Vendas de Produtos,SP,SP_mairinque,-23.536503,-47.1888901,Sudeste,2017-02-02 02:45:23
+815,Cliente Vendas Prod. 0815,3.01.01,Vendas de Produtos,RJ,RJ_belford roxo,-22.7372377,-43.3842925,Sudeste,2017-02-03 13:55:10
+816,Cliente Vendas Prod. 0816,3.01.01,Vendas de Produtos,SP,SP_ribeirao preto,-21.1807506,-47.8042811,Sudeste,2017-02-03 17:25:17
+817,Cliente Vendas Prod. 0817,3.01.01,Vendas de Produtos,RS,RS_imbe,-29.9518093,-50.12023,Sudeste,2017-02-03 19:25:16
+818,Cliente Vendas Prod. 0818,3.01.01,Vendas de Produtos,SP,SP_itarare,-24.1115109,-49.3313274,Sudeste,2017-02-04 19:04:42
+819,Cliente Vendas Prod. 0819,3.01.01,Vendas de Produtos,RJ,RJ_rio de janeiro,-22.9149109,-43.3128773,Norte,2017-02-05 17:50:15
+820,Cliente Vendas Prod. 0820,3.01.01,Vendas de Produtos,PR,PR_curitiba,-25.453054,-49.2749963,Sul,2017-02-06 01:05:37
+821,Cliente Vendas Prod. 0821,3.01.01,Vendas de Produtos,PR,PR_curitiba,-25.453054,-49.2749963,Sudeste,2017-02-06 01:05:37
+824,Cliente Vendas Prod. 0824,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,Sudeste,2017-02-07 03:42:53
+825,Cliente Vendas Prod. 0825,3.01.01,Vendas de Produtos,SP,SP_porto ferreira,-21.8660324,-47.4781018,Sudeste,2017-02-07 04:03:10
+826,Cliente Vendas Prod. 0826,3.01.01,Vendas de Produtos,SP,SP_marilia,-22.2094453,-49.9476115,Sul,2017-02-07 04:15:23
+827,Cliente Vendas Prod. 0827,3.01.01,Vendas de Produtos,ES,ES_serra,-20.1775534,-40.2482765,Sudeste,2017-02-07 13:05:49
+828,Cliente Vendas Prod. 0828,3.01.01,Vendas de Produtos,RO,RO_colorado do oeste,-13.1222411,-60.5421761,Sudeste,2017-02-07 15:55:19
+829,Cliente Vendas Prod. 0829,3.01.01,Vendas de Produtos,RJ,RJ_nova iguacu,-22.7428488,-43.4723199,Sudeste,2017-02-07 16:45:19
+830,Cliente Vendas Prod. 0830,3.01.01,Vendas de Produtos,RS,RS_pejucara,-28.4193341,-53.6541997,Sudeste,2017-02-08 21:15:17
+831,Cliente Vendas Prod. 0831,3.01.01,Vendas de Produtos,SP,SP_osasco,-23.5365609,-46.7882836,Sudeste,2017-02-09 14:10:19
+832,Cliente Vendas Prod. 0832,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,Sudeste,2017-02-09 15:10:23
+833,Cliente Vendas Prod. 0833,3.01.01,Vendas de Produtos,MG,MG_montalvania,-14.4184797,-44.3815237,Sudeste,2017-02-09 16:30:12
+835,Cliente Vendas Prod. 0835,3.01.01,Vendas de Produtos,RJ,RJ_niteroi,-22.8939271,-43.0863353,Sul,2017-02-09 20:30:16
+836,Cliente Vendas Prod. 0836,3.01.01,Vendas de Produtos,ES,ES_conceicao da barra,-18.5763284,-39.7371842,Sudeste,2017-02-10 01:05:19
+837,Cliente Vendas Prod. 0837,3.01.01,Vendas de Produtos,MG,MG_manhuacu,-20.2514311,-42.0412337,Nordeste,2017-02-10 11:45:18
+838,Cliente Vendas Prod. 0838,3.01.01,Vendas de Produtos,PA,PA_santarem,-2.4364075,-54.7192416,Sudeste,2017-02-10 12:31:53
+839,Cliente Vendas Prod. 0839,3.01.01,Vendas de Produtos,SC,SC_jaragua do sul,-26.4839209,-49.0934602,Sudeste,2017-02-10 19:55:08
+840,Cliente Vendas Prod. 0840,3.01.01,Vendas de Produtos,SP,SP_sao caetano do sul,-23.6267476,-46.5650578,Sudeste,2017-02-11 06:50:19
+842,Cliente Vendas Prod. 0842,3.01.01,Vendas de Produtos,SP,SP_jundiai,-23.1856757,-46.9025941,Sudeste,2017-02-11 11:05:19
+843,Cliente Vendas Prod. 0843,3.01.01,Vendas de Produtos,RJ,RJ_rio de janeiro,-22.9149109,-43.3128773,Sudeste,2017-02-12 16:15:21
+844,Cliente Vendas Prod. 0844,3.01.01,Vendas de Produtos,SP,SP_jaboticabal,-21.2568272,-48.3201537,Sudeste,2017-02-13 03:02:50
+845,Cliente Vendas Prod. 0845,3.01.01,Vendas de Produtos,BA,BA_alagoinhas,-12.1367445,-38.423444,Norte,2017-02-15 02:43:18
+846,Cliente Vendas Prod. 0846,3.01.01,Vendas de Produtos,MG,MG_contagem,-19.9190394,-44.0578851,Sudeste,2017-02-28 19:18:23
+847,Cliente Vendas Prod. 0847,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,Sudeste,2017-03-06 11:43:04
+848,Cliente Vendas Prod. 0848,3.01.01,Vendas de Produtos,RJ,RJ_petropolis,-22.4768193,-43.1708676,Sudeste,2017-03-06 21:35:17
+849,Cliente Vendas Prod. 0849,3.01.01,Vendas de Produtos,MG,MG_belo horizonte,-19.9087721,-43.9575494,Sudeste,2017-03-07 21:55:27
+851,Cliente Vendas Prod. 0851,3.01.01,Vendas de Produtos,SP,SP_pedreira,-22.7403255,-46.8967537,Sudeste,2017-03-08 03:05:11
+852,Cliente Vendas Prod. 0852,3.01.01,Vendas de Produtos,MG,MG_rio paranaiba,-19.2076954,-46.3217653,Sudeste,2017-03-08 11:15:16
+853,Cliente Vendas Prod. 0853,3.01.01,Vendas de Produtos,RJ,RJ_rio de janeiro,-22.9149109,-43.3128773,Sudeste,2017-03-09 02:55:17
+854,Cliente Vendas Prod. 0854,3.01.01,Vendas de Produtos,SP,SP_sao jose do rio preto,-20.8096411,-49.379645,Sudeste,2017-03-09 23:42:58
+857,Cliente Vendas Prod. 0857,3.01.01,Vendas de Produtos,RS,RS_pelotas,-31.7512688,-52.3373624,Sudeste,2017-03-10 16:59:14
+858,Cliente Vendas Prod. 0858,3.01.01,Vendas de Produtos,SP,SP_franco da rocha,-23.3161723,-46.7258212,Sudeste,2017-03-11 09:26:18
+860,Cliente Vendas Prod. 0860,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,Sul,2017-03-12 18:57:31
+861,Cliente Vendas Prod. 0861,3.01.01,Vendas de Produtos,MG,MG_divinopolis,-20.1445539,-44.8891973,Sudeste,2017-03-13 11:04:22
+863,Cliente Vendas Prod. 0863,3.01.01,Vendas de Produtos,MG,MG_juiz de fora,-21.7541042,-43.3626371,Sudeste,2017-03-13 14:00:28
+864,Cliente Vendas Prod. 0864,3.01.01,Vendas de Produtos,SC,SC_florianopolis,-27.5768356,-48.5179518,Sudeste,2017-03-13 17:37:05
+865,Cliente Vendas Prod. 0865,3.01.01,Vendas de Produtos,ES,ES_guacui,-20.7729117,-41.6754967,Sul,2017-03-14 19:30:51
+866,Cliente Vendas Prod. 0866,3.01.01,Vendas de Produtos,RJ,RJ_duque de caxias,-22.714738,-43.2894301,Sudeste,2017-03-14 21:56:07
+867,Cliente Vendas Prod. 0867,3.01.01,Vendas de Produtos,RS,RS_tavares,-31.2842565,-51.0871801,Sudeste,2017-03-14 22:44:44
+868,Cliente Vendas Prod. 0868,3.01.01,Vendas de Produtos,RJ,RJ_rio de janeiro,-22.9149109,-43.3128773,Sudeste,2017-03-14 23:41:19
+869,Cliente Vendas Prod. 0869,3.01.01,Vendas de Produtos,PR,PR_cianorte,-23.6615482,-52.6110094,Sul,2017-03-15 21:19:51
+870,Cliente Vendas Prod. 0870,3.01.01,Vendas de Produtos,SP,SP_sao joao da boa vista,-21.9782746,-46.790505,Sudeste,2017-03-16 11:15:22
+871,Cliente Vendas Prod. 0871,3.01.01,Vendas de Produtos,SP,SP_cajamar,-23.3695867,-46.8423215,Sul,2017-03-16 13:58:03
+877,Cliente Vendas Prod. 0877,3.01.01,Vendas de Produtos,PR,PR_toledo,-24.7288499,-53.7394838,Sudeste,2017-03-17 00:30:35
+879,Cliente Vendas Prod. 0879,3.01.01,Vendas de Produtos,RS,RS_teutonia,-29.4813608,-51.8082718,Nordeste,2017-03-17 12:32:22
+880,Cliente Vendas Prod. 0880,3.01.01,Vendas de Produtos,MG,MG_belo horizonte,-19.9087721,-43.9575494,Sudeste,2017-03-17 13:22:04
+882,Cliente Vendas Prod. 0882,3.01.01,Vendas de Produtos,MG,MG_passos,-20.7223837,-46.6086261,Sudeste,2017-03-17 18:39:46
+883,Cliente Vendas Prod. 0883,3.01.01,Vendas de Produtos,PR,PR_curitiba,-25.453054,-49.2749963,Sudeste,2017-03-17 21:27:37
+884,Cliente Vendas Prod. 0884,3.01.01,Vendas de Produtos,SP,SP_sao joao da boa vista,-21.9782746,-46.790505,Sul,2017-03-18 17:45:15
+885,Cliente Vendas Prod. 0885,3.01.01,Vendas de Produtos,MT,MT_varzea grande,-15.5014994,-56.0041517,Sudeste,2017-03-18 23:04:36
+886,Cliente Vendas Prod. 0886,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,Nordeste,2017-03-19 12:41:44
+887,Cliente Vendas Prod. 0887,3.01.01,Vendas de Produtos,RS,RS_montenegro,-29.6878042,-51.467964,Sul,2017-03-20 12:26:01
+888,Cliente Vendas Prod. 0888,3.01.01,Vendas de Produtos,RJ,RJ_rio de janeiro,-22.9149109,-43.3128773,Sudeste,2017-03-20 17:15:11
+889,Cliente Vendas Prod. 0889,3.01.01,Vendas de Produtos,MG,MG_ituiutaba,-18.976155,-49.4633524,Nordeste,2017-03-20 22:34:44
+890,Cliente Vendas Prod. 0890,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,Sudeste,2017-03-21 09:20:40
+892,Cliente Vendas Prod. 0892,3.01.01,Vendas de Produtos,RS,RS_veranopolis,-28.9362573,-51.5493766,Nordeste,2017-03-22 08:01:15
+894,Cliente Vendas Prod. 0894,3.01.01,Vendas de Produtos,SP,SP_ribeirao preto,-21.1807506,-47.8042811,Sul,2017-03-22 19:47:12
+895,Cliente Vendas Prod. 0895,3.01.01,Vendas de Produtos,SC,SC_angelina,-27.5820601,-48.9843866,Nordeste,2017-03-23 15:25:11
+896,Cliente Vendas Prod. 0896,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,Sudeste,2017-03-23 21:25:20
+897,Cliente Vendas Prod. 0897,3.01.01,Vendas de Produtos,ES,ES_linhares,-19.3834438,-40.0598377,Centro-Oeste,2017-03-25 02:15:36
+898,Cliente Vendas Prod. 0898,3.01.01,Vendas de Produtos,SE,SE_aracaju,-10.9413464,-37.0672781,Sudeste,2017-03-26 17:02:14
+899,Cliente Vendas Prod. 0899,3.01.01,Vendas de Produtos,SP,SP_mairipora,-23.3302933,-46.5974367,Sudeste,2017-03-29 20:22:21
+900,Cliente Vendas Prod. 0900,3.01.01,Vendas de Produtos,PB,PB_nova floresta,-6.4555018,-36.205908,Sudeste,2017-03-30 14:55:17
+901,Cliente Vendas Prod. 0901,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,Sudeste,2017-03-30 16:42:32
+902,Cliente Vendas Prod. 0902,3.01.01,Vendas de Produtos,BA,BA_salvador,-12.9626546,-38.461683,Sudeste,2017-04-01 14:02:43
+903,Cliente Vendas Prod. 0903,3.01.01,Vendas de Produtos,BA,BA_catu de abrantes,-12.8570085,-38.285332,Sudeste,2017-04-02 18:35:18
+904,Cliente Vendas Prod. 0904,3.01.01,Vendas de Produtos,CE,CE_araripe,-7.1981902,-40.141118,Sudeste,2017-04-02 22:22:37
+905,Cliente Vendas Prod. 0905,3.01.01,Vendas de Produtos,SP,SP_pederneiras,-22.3480131,-48.7844957,Sudeste,2017-04-03 22:15:14
+907,Cliente Vendas Prod. 0907,3.01.01,Vendas de Produtos,RS,RS_porto alegre,-30.0492523,-51.1885815,Sudeste,2017-04-04 05:55:19
+908,Cliente Vendas Prod. 0908,3.01.01,Vendas de Produtos,SP,SP_guarulhos,-23.4464035,-46.4987685,Sudeste,2017-04-04 06:02:21
+909,Cliente Vendas Prod. 0909,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,Sudeste,2017-04-04 16:50:12
+910,Cliente Vendas Prod. 0910,3.01.01,Vendas de Produtos,MG,MG_araxa,-19.5922726,-46.9390871,Sudeste,2017-04-04 21:45:15
+911,Cliente Vendas Prod. 0911,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,Sudeste,2017-04-05 01:30:08
+912,Cliente Vendas Prod. 0912,3.01.01,Vendas de Produtos,RJ,RJ_rio de janeiro,-22.9149109,-43.3128773,Sudeste,2017-04-06 21:15:10
+913,Cliente Vendas Prod. 0913,3.01.01,Vendas de Produtos,RS,RS_porto alegre,-30.0492523,-51.1885815,Sul,2017-04-07 03:15:57
+914,Cliente Vendas Prod. 0914,3.01.01,Vendas de Produtos,PB,PB_joao pessoa,-7.132032,-34.851423,Sudeste,2017-04-17 08:50:17
+915,Cliente Vendas Prod. 0915,3.01.01,Vendas de Produtos,BA,BA_ilheus,-14.8021921,-39.0398239,Sudeste,2017-04-19 21:30:27
+916,Cliente Vendas Prod. 0916,3.01.01,Vendas de Produtos,RJ,RJ_niteroi,-22.8939271,-43.0863353,Nordeste,2017-04-20 09:35:15
+917,Cliente Vendas Prod. 0917,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,Sul,2017-04-21 18:55:16
+919,Cliente Vendas Prod. 0919,3.01.01,Vendas de Produtos,MG,MG_belo horizonte,-19.9087721,-43.9575494,Sudeste,2017-04-24 19:25:16
+920,Cliente Vendas Prod. 0920,3.01.01,Vendas de Produtos,RJ,RJ_rio de janeiro,-22.9149109,-43.3128773,Centro-Oeste,2017-04-24 21:55:21
+922,Cliente Vendas Prod. 0922,3.01.01,Vendas de Produtos,SP,SP_botucatu,-22.8821125,-48.4470122,Sudeste,2017-04-25 06:35:40
+923,Cliente Vendas Prod. 0923,3.01.01,Vendas de Produtos,SC,SC_criciuma,-28.684533,-49.3775047,Sul,2017-04-26 14:30:19
+924,Cliente Vendas Prod. 0924,3.01.01,Vendas de Produtos,RJ,RJ_rio de janeiro,-22.9149109,-43.3128773,Sudeste,2017-04-28 17:10:12
+925,Cliente Vendas Prod. 0925,3.01.01,Vendas de Produtos,RJ,RJ_conceicao de macabu,-22.0874375,-41.8676716,Nordeste,2017-04-29 22:50:14
+926,Cliente Vendas Prod. 0926,3.01.01,Vendas de Produtos,RJ,RJ_nova iguacu,-22.7428488,-43.4723199,Sudeste,2017-04-30 12:42:37
+927,Cliente Vendas Prod. 0927,3.01.01,Vendas de Produtos,DF,DF_brasilia,-15.8110727,-47.9717049,Centro-Oeste,2017-04-30 18:03:06
+928,Cliente Vendas Prod. 0928,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,Sudeste,2017-05-05 06:50:08
+929,Cliente Vendas Prod. 0929,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,Nordeste,2017-05-06 22:02:23
+930,Cliente Vendas Prod. 0930,3.01.01,Vendas de Produtos,RJ,RJ_petropolis,-22.4768193,-43.1708676,Sudeste,2017-05-07 14:15:20
+931,Cliente Vendas Prod. 0931,3.01.01,Vendas de Produtos,CE,CE_paracuru,-3.4207176,-39.0353693,Sudeste,2017-05-07 17:50:21
+932,Cliente Vendas Prod. 0932,3.01.01,Vendas de Produtos,CE,CE_fortaleza,-3.7631079,-38.5324297,Sul,2017-05-08 13:35:19
+933,Cliente Vendas Prod. 0933,3.01.01,Vendas de Produtos,RJ,RJ_porciuncula,-20.966721,-42.0410866,Sudeste,2017-05-08 15:05:29
+934,Cliente Vendas Prod. 0934,3.01.01,Vendas de Produtos,RS,RS_nova santa rita,-29.8608732,-51.2728348,Sudeste,2017-05-08 22:22:56
+935,Cliente Vendas Prod. 0935,3.01.01,Vendas de Produtos,RJ,RJ_rio de janeiro,-22.9149109,-43.3128773,Sudeste,2017-05-09 10:55:17
+937,Cliente Vendas Prod. 0937,3.01.01,Vendas de Produtos,SC,SC_gaspar,-26.9169833,-48.9588884,Sudeste,2017-05-09 11:45:13
+943,Cliente Vendas Prod. 0943,3.01.01,Vendas de Produtos,SP,SP_santos,-23.9625232,-46.3278035,Centro-Oeste,2017-05-09 13:10:16
+945,Cliente Vendas Prod. 0945,3.01.01,Vendas de Produtos,RJ,RJ_macae,-22.3809421,-41.7888662,Sudeste,2017-05-09 22:25:10
+946,Cliente Vendas Prod. 0946,3.01.01,Vendas de Produtos,SP,SP_poa,-23.526764,-46.3470194,Sudeste,2017-05-10 02:42:28
+952,Cliente Vendas Prod. 0952,3.01.01,Vendas de Produtos,MG,MG_belo horizonte,-19.9087721,-43.9575494,Sudeste,2017-05-10 16:15:16
+953,Cliente Vendas Prod. 0953,3.01.01,Vendas de Produtos,BA,BA_itabuna,-14.7951884,-39.2764868,Sudeste,2017-05-10 16:25:18
+954,Cliente Vendas Prod. 0954,3.01.01,Vendas de Produtos,SP,SP_embu das artes,-23.6541841,-46.8225983,Centro-Oeste,2017-05-11 18:43:05
+955,Cliente Vendas Prod. 0955,3.01.01,Vendas de Produtos,SP,SP_bauru,-22.3266828,-49.0666825,Sudeste,2017-05-12 02:50:49
+956,Cliente Vendas Prod. 0956,3.01.01,Vendas de Produtos,SP,SP_santo anastacio,-21.9768743,-51.6525966,Sul,2017-05-13 09:10:15
+958,Cliente Vendas Prod. 0958,3.01.01,Vendas de Produtos,GO,GO_jatai,-17.8833959,-51.7233302,Sudeste,2017-05-13 22:45:14
+959,Cliente Vendas Prod. 0959,3.01.01,Vendas de Produtos,SP,SP_holambra,-22.633046,-47.0526039,Sudeste,2017-05-14 23:12:08
+960,Cliente Vendas Prod. 0960,3.01.01,Vendas de Produtos,RJ,RJ_angra dos reis,-22.9950533,-44.353285,Sudeste,2017-05-15 23:15:16
+961,Cliente Vendas Prod. 0961,3.01.01,Vendas de Produtos,SP,SP_franca,-20.5340568,-47.3984366,Centro-Oeste,2017-05-16 15:22:12
+962,Cliente Vendas Prod. 0962,3.01.01,Vendas de Produtos,MG,MG_contagem,-19.9190394,-44.0578851,Sul,2017-05-17 03:45:27
+963,Cliente Vendas Prod. 0963,3.01.01,Vendas de Produtos,RS,RS_santa maria,-29.69474,-53.8020664,Sudeste,2017-05-17 04:10:16
+964,Cliente Vendas Prod. 0964,3.01.01,Vendas de Produtos,MG,MG_belo horizonte,-19.9087721,-43.9575494,Nordeste,2017-05-18 13:10:47
+965,Cliente Vendas Prod. 0965,3.01.01,Vendas de Produtos,MG,MG_belo horizonte,-19.9087721,-43.9575494,Nordeste,2017-05-18 13:11:02
+966,Cliente Vendas Prod. 0966,3.01.01,Vendas de Produtos,SP,SP_campinas,-22.9008682,-47.0685368,Nordeste,2017-05-21 16:42:20
+967,Cliente Vendas Prod. 0967,3.01.01,Vendas de Produtos,RJ,RJ_cabo frio,-22.8549908,-42.0261705,Sudeste,2017-05-25 01:10:21
+968,Cliente Vendas Prod. 0968,3.01.01,Vendas de Produtos,SP,SP_ibate,-21.9504028,-48.0021741,Sudeste,2017-05-26 02:35:17
+969,Cliente Vendas Prod. 0969,3.01.01,Vendas de Produtos,CE,CE_crato,-7.2351456,-39.4125611,Nordeste,2017-05-26 02:42:43
+970,Cliente Vendas Prod. 0970,3.01.01,Vendas de Produtos,SP,SP_cajamar,-23.3695867,-46.8423215,Sul,2017-05-28 14:55:18
+971,Cliente Vendas Prod. 0971,3.01.01,Vendas de Produtos,RS,RS_estrela,-29.497659,-51.9583843,Nordeste,2017-05-29 13:05:34
+972,Cliente Vendas Prod. 0972,3.01.01,Vendas de Produtos,SP,SP_campinas,-22.9008682,-47.0685368,Sudeste,2017-05-29 15:30:16
+973,Cliente Vendas Prod. 0973,3.01.01,Vendas de Produtos,BA,BA_salvador,-12.9626546,-38.461683,Centro-Oeste,2017-05-31 19:35:22
+974,Cliente Vendas Prod. 0974,3.01.01,Vendas de Produtos,DF,DF_brasilia,-15.8110727,-47.9717049,Sudeste,2017-06-01 03:50:20
+975,Cliente Vendas Prod. 0975,3.01.01,Vendas de Produtos,MT,MT_cuiaba,-15.59882,-56.0722244,Sul,2017-06-01 14:42:35
+976,Cliente Vendas Prod. 0976,3.01.01,Vendas de Produtos,RJ,RJ_araruama,-22.8693098,-42.321256,Sudeste,2017-06-01 22:55:09
+977,Cliente Vendas Prod. 0977,3.01.01,Vendas de Produtos,SP,SP_piedade,-23.7159446,-47.4142319,Sudeste,2017-06-02 04:25:39
+978,Cliente Vendas Prod. 0978,3.01.01,Vendas de Produtos,SP,SP_praia grande,-24.0214237,-46.4618239,Sudeste,2017-06-02 11:23:00
+979,Cliente Vendas Prod. 0979,3.01.01,Vendas de Produtos,RS,RS_pelotas,-31.7512688,-52.3373624,Sudeste,2017-06-03 06:42:59
+980,Cliente Vendas Prod. 0980,3.01.01,Vendas de Produtos,SP,SP_mongagua,-24.1114669,-46.6646109,Centro-Oeste,2017-06-03 13:05:17
+981,Cliente Vendas Prod. 0981,3.01.01,Vendas de Produtos,MG,MG_sao gotardo,-19.3175586,-46.0526221,Centro-Oeste,2017-06-06 13:10:25
+982,Cliente Vendas Prod. 0982,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,Sudeste,2017-06-06 16:55:24
+983,Cliente Vendas Prod. 0983,3.01.01,Vendas de Produtos,SC,SC_sao jose,-27.5836567,-48.628066,Nordeste,2017-06-07 22:05:13
+984,Cliente Vendas Prod. 0984,3.01.01,Vendas de Produtos,SP,SP_mogi das cruzes,-23.5304016,-46.193888,Nordeste,2017-06-08 20:30:19
+985,Cliente Vendas Prod. 0985,3.01.01,Vendas de Produtos,SP,SP_sao jose dos campos,-23.2108797,-45.8851865,Sudeste,2017-06-10 03:03:46
+986,Cliente Vendas Prod. 0986,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,Norte,2017-06-13 05:05:23
+987,Cliente Vendas Prod. 0987,3.01.01,Vendas de Produtos,MG,MG_teofilo otoni,-17.8618608,-41.5063663,Sudeste,2017-06-13 15:02:58
+988,Cliente Vendas Prod. 0988,3.01.01,Vendas de Produtos,BA,BA_ilheus,-14.8021921,-39.0398239,Sudeste,2017-06-14 02:32:10
+989,Cliente Vendas Prod. 0989,3.01.01,Vendas de Produtos,RJ,RJ_rio de janeiro,-22.9149109,-43.3128773,Sudeste,2017-06-14 15:23:02
+990,Cliente Vendas Prod. 0990,3.01.01,Vendas de Produtos,RJ,RJ_cabo frio,-22.8549908,-42.0261705,Sudeste,2017-06-14 16:31:47
+991,Cliente Vendas Prod. 0991,3.01.01,Vendas de Produtos,SC,SC_sao jose,-27.5836567,-48.628066,Sudeste,2017-06-18 07:42:33
+992,Cliente Vendas Prod. 0992,3.01.01,Vendas de Produtos,SP,SP_campinas,-22.9008682,-47.0685368,Nordeste,2017-06-18 14:25:16
+993,Cliente Vendas Prod. 0993,3.01.01,Vendas de Produtos,GO,GO_goiania,-16.6845866,-49.2744805,Sudeste,2017-06-18 20:15:21
+994,Cliente Vendas Prod. 0994,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,Sudeste,2017-06-19 13:30:20
+995,Cliente Vendas Prod. 0995,3.01.01,Vendas de Produtos,SP,SP_itapevi,-23.5486294,-46.9461231,Sudeste,2017-06-19 23:55:12
+996,Cliente Vendas Prod. 0996,3.01.01,Vendas de Produtos,RS,RS_porto alegre,-30.0492523,-51.1885815,Sudeste,2017-06-20 10:55:11
+997,Cliente Vendas Prod. 0997,3.01.01,Vendas de Produtos,BA,BA_pau brasil,-15.4646977,-39.6530385,Sudeste,2017-06-20 11:25:31
+999,Cliente Vendas Prod. 0999,3.01.01,Vendas de Produtos,SP,SP_sao jose dos campos,-23.2108797,-45.8851865,Nordeste,2017-06-21 02:15:51
+1000,Cliente Vendas Prod. 1000,3.01.01,Vendas de Produtos,MA,MA_sao luis,-2.5305847,-44.2542139,Sudeste,2017-06-22 17:55:11
+1001,Cliente Vendas Prod. 1001,3.01.01,Vendas de Produtos,BA,BA_lauro de freitas,-12.8849003,-38.3146705,Sudeste,2017-06-23 17:15:22
+1002,Cliente Vendas Prod. 1002,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,Sudeste,2017-06-24 21:33:14
+1003,Cliente Vendas Prod. 1003,3.01.01,Vendas de Produtos,RJ,RJ_rio de janeiro,-22.9149109,-43.3128773,Centro-Oeste,2017-06-25 23:10:10
+1004,Cliente Vendas Prod. 1004,3.01.01,Vendas de Produtos,SC,SC_florianopolis,-27.5768356,-48.5179518,Sudeste,2017-06-25 23:30:16
+1005,Cliente Vendas Prod. 1005,3.01.01,Vendas de Produtos,PE,PE_escada,-8.3663409,-35.241203,Nordeste,2017-06-26 11:09:52
+1006,Cliente Vendas Prod. 1006,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,Sudeste,2017-06-27 03:45:18
+1007,Cliente Vendas Prod. 1007,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,Sudeste,2017-06-27 03:45:30
+1008,Cliente Vendas Prod. 1008,3.01.01,Vendas de Produtos,MG,MG_belo horizonte,-19.9087721,-43.9575494,Sudeste,2017-06-27 03:55:21
+1009,Cliente Vendas Prod. 1009,3.01.01,Vendas de Produtos,MT,MT_barra do garcas,-15.8786374,-52.2722399,Sudeste,2017-06-27 04:23:21
+1010,Cliente Vendas Prod. 1010,3.01.01,Vendas de Produtos,MG,MG_itamarandiba,-17.8602802,-42.8619859,Centro-Oeste,2017-06-27 04:25:15
+1013,Cliente Vendas Prod. 1013,3.01.01,Vendas de Produtos,PE,PE_jaboatao dos guararapes,-8.1557335,-34.9499036,Nordeste,2017-06-27 12:03:56
+1014,Cliente Vendas Prod. 1014,3.01.01,Vendas de Produtos,MG,MG_belo horizonte,-19.9087721,-43.9575494,Sudeste,2017-06-28 15:05:18
+1015,Cliente Vendas Prod. 1015,3.01.01,Vendas de Produtos,BA,BA_senhor do bonfim,-10.4623416,-40.183767,Sul,2017-06-28 15:44:13
+1016,Cliente Vendas Prod. 1016,3.01.01,Vendas de Produtos,RJ,RJ_rio de janeiro,-22.9149109,-43.3128773,Sul,2017-06-29 13:04:11
+1017,Cliente Vendas Prod. 1017,3.01.01,Vendas de Produtos,ES,ES_vila velha,-20.359658,-40.3102169,Sudeste,2017-06-30 02:50:32
+1018,Cliente Vendas Prod. 1018,3.01.01,Vendas de Produtos,GO,GO_goiania,-16.6845866,-49.2744805,Sudeste,2017-07-01 04:50:20
+1019,Cliente Vendas Prod. 1019,3.01.01,Vendas de Produtos,MG,MG_ipatinga,-19.4697787,-42.5532918,Nordeste,2017-07-01 09:55:11
+1020,Cliente Vendas Prod. 1020,3.01.01,Vendas de Produtos,SC,SC_canoinhas,-26.1784297,-50.3917292,Sudeste,2017-07-01 14:43:45
+1021,Cliente Vendas Prod. 1021,3.01.01,Vendas de Produtos,CE,CE_itapage,-3.6862129,-39.5840247,Sudeste,2017-07-02 16:03:26
+1022,Cliente Vendas Prod. 1022,3.01.01,Vendas de Produtos,GO,GO_valparaiso de goias,-16.0700547,-47.9872374,Sudeste,2017-07-03 09:55:16
+1023,Cliente Vendas Prod. 1023,3.01.01,Vendas de Produtos,SP,SP_santo andre,-23.6600311,-46.5219659,Sudeste,2017-07-04 07:30:08
+1024,Cliente Vendas Prod. 1024,3.01.01,Vendas de Produtos,SP,SP_sao jose do rio preto,-20.8096411,-49.379645,Sudeste,2017-07-05 17:42:58
+1025,Cliente Vendas Prod. 1025,3.01.01,Vendas de Produtos,SP,SP_hortolandia,-22.8837276,-47.2048364,Sudeste,2017-07-05 17:43:57
+1026,Cliente Vendas Prod. 1026,3.01.01,Vendas de Produtos,BA,BA_salvador,-12.9626546,-38.461683,Sudeste,2017-07-06 06:43:48
+1027,Cliente Vendas Prod. 1027,3.01.01,Vendas de Produtos,RJ,RJ_nilopolis,-22.8097905,-43.4182227,Sul,2017-07-06 07:15:24
+1028,Cliente Vendas Prod. 1028,3.01.01,Vendas de Produtos,MG,MG_belo horizonte,-19.9087721,-43.9575494,Centro-Oeste,2017-07-06 08:55:11
+1029,Cliente Vendas Prod. 1029,3.01.01,Vendas de Produtos,SP,SP_itanhaem,-24.1831674,-46.8020876,Sudeste,2017-07-06 14:23:40
+1030,Cliente Vendas Prod. 1030,3.01.01,Vendas de Produtos,RJ,RJ_rio de janeiro,-22.9149109,-43.3128773,Sudeste,2017-07-07 02:44:22
+1031,Cliente Vendas Prod. 1031,3.01.01,Vendas de Produtos,MA,MA_imperatriz,-5.5193781,-47.4772912,Sudeste,2017-07-07 02:45:19
+1033,Cliente Vendas Prod. 1033,3.01.01,Vendas de Produtos,MG,MG_leopoldina,-21.5301643,-42.6408986,Sudeste,2017-07-07 11:35:08
+1034,Cliente Vendas Prod. 1034,3.01.01,Vendas de Produtos,RJ,RJ_rio de janeiro,-22.9149109,-43.3128773,Sudeste,2017-07-07 16:23:47
+1035,Cliente Vendas Prod. 1035,3.01.01,Vendas de Produtos,SP,SP_sumare,-22.8203749,-47.2318262,Sudeste,2017-07-07 17:45:13
+1036,Cliente Vendas Prod. 1036,3.01.01,Vendas de Produtos,GO,GO_jatai,-17.8833959,-51.7233302,Sudeste,2017-07-08 06:45:14
+1037,Cliente Vendas Prod. 1037,3.01.01,Vendas de Produtos,RJ,RJ_sao goncalo,-22.82803,-43.0275321,Nordeste,2017-07-08 18:45:13
+1038,Cliente Vendas Prod. 1038,3.01.01,Vendas de Produtos,BA,BA_sao miguel das matas,-13.0470908,-39.4540795,Sudeste,2017-07-08 20:45:15
+1039,Cliente Vendas Prod. 1039,3.01.01,Vendas de Produtos,PA,PA_ananindeua,-1.3664682,-48.401416,Sul,2017-07-09 10:10:19
+1041,Cliente Vendas Prod. 1041,3.01.01,Vendas de Produtos,CE,CE_sobral,-3.6865664,-40.3531118,Nordeste,2017-07-09 13:35:11
+1042,Cliente Vendas Prod. 1042,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,Sudeste,2017-07-09 15:15:17
+1043,Cliente Vendas Prod. 1043,3.01.01,Vendas de Produtos,SP,SP_bebedouro,-20.9438878,-48.4860917,Sudeste,2017-07-10 16:43:56
+1044,Cliente Vendas Prod. 1044,3.01.01,Vendas de Produtos,RJ,RJ_rio de janeiro,-22.9149109,-43.3128773,Sudeste,2017-07-10 17:15:19
+1045,Cliente Vendas Prod. 1045,3.01.01,Vendas de Produtos,BA,BA_salvador,-12.9626546,-38.461683,Sudeste,2017-07-11 04:04:06
+1046,Cliente Vendas Prod. 1046,3.01.01,Vendas de Produtos,DF,DF_brasilia,-15.8110727,-47.9717049,Centro-Oeste,2017-07-11 11:45:21
+1047,Cliente Vendas Prod. 1047,3.01.01,Vendas de Produtos,DF,DF_brasilia,-15.8110727,-47.9717049,Nordeste,2017-07-11 18:50:15
+1048,Cliente Vendas Prod. 1048,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,Nordeste,2017-07-11 23:50:20
+1049,Cliente Vendas Prod. 1049,3.01.01,Vendas de Produtos,RS,RS_lajeado,-29.4556791,-51.9703754,Nordeste,2017-07-12 00:25:14
+1050,Cliente Vendas Prod. 1050,3.01.01,Vendas de Produtos,SP,SP_sumare,-22.8203749,-47.2318262,Sul,2017-07-13 20:05:17
+1051,Cliente Vendas Prod. 1051,3.01.01,Vendas de Produtos,SP,SP_ourinhos,-22.9789224,-49.8735548,Nordeste,2017-07-13 21:15:32
+1052,Cliente Vendas Prod. 1052,3.01.01,Vendas de Produtos,RJ,RJ_rio de janeiro,-22.9149109,-43.3128773,Sudeste,2017-07-13 22:45:07
+1053,Cliente Vendas Prod. 1053,3.01.01,Vendas de Produtos,RJ,RJ_rio de janeiro,-22.9149109,-43.3128773,Nordeste,2017-07-14 02:15:23
+1054,Cliente Vendas Prod. 1054,3.01.01,Vendas de Produtos,SP,SP_santos,-23.9625232,-46.3278035,Sudeste,2017-07-14 02:24:58
+1055,Cliente Vendas Prod. 1055,3.01.01,Vendas de Produtos,PR,PR_arapoti,-24.1425975,-49.8223672,Sudeste,2017-07-14 20:05:22
+1057,Cliente Vendas Prod. 1057,3.01.01,Vendas de Produtos,SP,SP_pedro de toledo,-24.279034,-47.2357618,Sul,2017-07-15 03:34:23
+1058,Cliente Vendas Prod. 1058,3.01.01,Vendas de Produtos,RS,RS_porto alegre,-30.0492523,-51.1885815,Sul,2017-07-15 03:34:37
+1059,Cliente Vendas Prod. 1059,3.01.01,Vendas de Produtos,PR,PR_toledo,-24.7288499,-53.7394838,Sudeste,2017-07-15 03:35:20
+1061,Cliente Vendas Prod. 1061,3.01.01,Vendas de Produtos,RJ,RJ_duque de caxias,-22.714738,-43.2894301,Sudeste,2017-07-15 15:25:21
+1062,Cliente Vendas Prod. 1062,3.01.01,Vendas de Produtos,BA,BA_salvador,-12.9626546,-38.461683,Sudeste,2017-07-15 16:10:22
+1063,Cliente Vendas Prod. 1063,3.01.01,Vendas de Produtos,DF,DF_brasilia,-15.8110727,-47.9717049,Sudeste,2017-07-15 17:43:46
+1064,Cliente Vendas Prod. 1064,3.01.01,Vendas de Produtos,PI,PI_teresina,-5.0826619,-42.7905688,Sudeste,2017-07-16 02:43:19
+1065,Cliente Vendas Prod. 1065,3.01.01,Vendas de Produtos,MG,MG_belo horizonte,-19.9087721,-43.9575494,Sudeste,2017-07-16 09:55:14
+1067,Cliente Vendas Prod. 1067,3.01.01,Vendas de Produtos,BA,BA_nazare,-13.0240963,-39.0037256,Sul,2017-07-16 18:23:00
+1068,Cliente Vendas Prod. 1068,3.01.01,Vendas de Produtos,SP,SP_sumare,-22.8203749,-47.2318262,Nordeste,2017-07-17 08:30:45
+1069,Cliente Vendas Prod. 1069,3.01.01,Vendas de Produtos,BA,BA_salvador,-12.9626546,-38.461683,Sudeste,2017-07-17 13:45:16
+1070,Cliente Vendas Prod. 1070,3.01.01,Vendas de Produtos,SP,SP_caieiras,-23.3651353,-46.7356648,Sul,2017-07-17 14:15:21
+1071,Cliente Vendas Prod. 1071,3.01.01,Vendas de Produtos,SP,SP_santos,-23.9625232,-46.3278035,Sul,2017-07-17 14:45:26
+1073,Cliente Vendas Prod. 1073,3.01.01,Vendas de Produtos,MG,MG_santos dumont,-21.4598312,-43.5522614,Sudeste,2017-07-17 15:35:09
+1074,Cliente Vendas Prod. 1074,3.01.01,Vendas de Produtos,RJ,RJ_rio de janeiro,-22.9149109,-43.3128773,Sudeste,2017-07-18 00:30:15
+1075,Cliente Vendas Prod. 1075,3.01.01,Vendas de Produtos,RJ,RJ_sao goncalo,-22.82803,-43.0275321,Centro-Oeste,2017-07-18 08:45:12
+1076,Cliente Vendas Prod. 1076,3.01.01,Vendas de Produtos,MG,MG_carmo da mata,-20.5596681,-44.8691729,Sudeste,2017-07-18 13:45:17
+1077,Cliente Vendas Prod. 1077,3.01.01,Vendas de Produtos,RJ,RJ_rio de janeiro,-22.9149109,-43.3128773,Sudeste,2017-07-18 16:15:29
+1078,Cliente Vendas Prod. 1078,3.01.01,Vendas de Produtos,SP,SP_campinas,-22.9008682,-47.0685368,Sudeste,2017-07-18 19:55:20
+1079,Cliente Vendas Prod. 1079,3.01.01,Vendas de Produtos,SP,SP_mogi das cruzes,-23.5304016,-46.193888,Sul,2017-07-18 23:25:20
+1080,Cliente Vendas Prod. 1080,3.01.01,Vendas de Produtos,RJ,RJ_rio de janeiro,-22.9149109,-43.3128773,Sudeste,2017-07-19 12:50:15
+1084,Cliente Vendas Prod. 1084,3.01.01,Vendas de Produtos,SP,SP_pederneiras,-22.3480131,-48.7844957,Sul,2017-07-19 13:50:21
+1085,Cliente Vendas Prod. 1085,3.01.01,Vendas de Produtos,BA,BA_salvador,-12.9626546,-38.461683,Sudeste,2017-07-20 17:45:20
+1086,Cliente Vendas Prod. 1086,3.01.01,Vendas de Produtos,SP,SP_boituva,-23.2874269,-47.6705861,Centro-Oeste,2017-07-21 06:43:14
+1087,Cliente Vendas Prod. 1087,3.01.01,Vendas de Produtos,CE,CE_juazeiro do norte,-7.2225495,-39.3161107,Sudeste,2017-07-22 02:23:25
+1088,Cliente Vendas Prod. 1088,3.01.01,Vendas de Produtos,SP,SP_paulinia,-22.7652325,-47.1585727,Nordeste,2017-07-22 06:42:42
+1089,Cliente Vendas Prod. 1089,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,Sul,2017-07-22 14:10:18
+1090,Cliente Vendas Prod. 1090,3.01.01,Vendas de Produtos,SP,SP_campinas,-22.9008682,-47.0685368,Centro-Oeste,2017-07-22 22:30:11
+1091,Cliente Vendas Prod. 1091,3.01.01,Vendas de Produtos,SP,SP_franca,-20.5340568,-47.3984366,Sudeste,2017-07-24 10:05:54
+1092,Cliente Vendas Prod. 1092,3.01.01,Vendas de Produtos,SP,SP_lorena,-22.7372001,-45.1155531,Sudeste,2017-07-24 17:05:18
+1093,Cliente Vendas Prod. 1093,3.01.01,Vendas de Produtos,BA,BA_bom jesus da lapa,-13.256014,-43.4098758,Nordeste,2017-07-24 20:03:32
+1094,Cliente Vendas Prod. 1094,3.01.01,Vendas de Produtos,RJ,RJ_rio de janeiro,-22.9149109,-43.3128773,Sudeste,2017-07-24 20:42:57
+1095,Cliente Vendas Prod. 1095,3.01.01,Vendas de Produtos,PE,PE_recife,-8.0681389,-34.9136321,Sudeste,2017-07-25 13:25:19
+1096,Cliente Vendas Prod. 1096,3.01.01,Vendas de Produtos,SP,SP_bauru,-22.3266828,-49.0666825,Sudeste,2017-07-25 21:55:19
+1097,Cliente Vendas Prod. 1097,3.01.01,Vendas de Produtos,SC,SC_jacinto machado,-28.999085,-49.7617564,Sudeste,2017-07-26 02:23:18
+1098,Cliente Vendas Prod. 1098,3.01.01,Vendas de Produtos,SP,SP_sao jose do rio preto,-20.8096411,-49.379645,Sudeste,2017-07-26 02:25:30
+1102,Cliente Vendas Prod. 1102,3.01.01,Vendas de Produtos,RS,RS_sao luiz gonzaga,-28.405492,-54.9577063,Sudeste,2017-07-26 19:10:14
+1103,Cliente Vendas Prod. 1103,3.01.01,Vendas de Produtos,SP,SP_poa,-23.526764,-46.3470194,Sudeste,2017-07-26 21:05:10
+1105,Cliente Vendas Prod. 1105,3.01.01,Vendas de Produtos,MG,MG_santa barbara,-19.9615017,-43.4101402,Sul,2017-07-27 10:10:08
+1106,Cliente Vendas Prod. 1106,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,Sudeste,2017-07-27 16:03:24
+1107,Cliente Vendas Prod. 1107,3.01.01,Vendas de Produtos,PA,PA_belem,-1.4182009,-48.4695107,Sudeste,2017-07-27 19:05:18
+1109,Cliente Vendas Prod. 1109,3.01.01,Vendas de Produtos,SP,SP_santo andre,-23.6600311,-46.5219659,Sudeste,2017-07-27 22:55:19
+1110,Cliente Vendas Prod. 1110,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,Sudeste,2017-07-28 08:45:22
+1111,Cliente Vendas Prod. 1111,3.01.01,Vendas de Produtos,RJ,RJ_niteroi,-22.8939271,-43.0863353,Norte,2017-07-28 09:50:15
+1112,Cliente Vendas Prod. 1112,3.01.01,Vendas de Produtos,GO,GO_ipameri,-17.7087821,-48.1503398,Sudeste,2017-07-28 10:43:47
+1113,Cliente Vendas Prod. 1113,3.01.01,Vendas de Produtos,RS,RS_porto alegre,-30.0492523,-51.1885815,Sudeste,2017-07-28 16:15:19
+1116,Cliente Vendas Prod. 1116,3.01.01,Vendas de Produtos,RJ,RJ_niteroi,-22.8939271,-43.0863353,Sudeste,2017-07-28 20:43:31
+1118,Cliente Vendas Prod. 1118,3.01.01,Vendas de Produtos,SP,SP_sorocaba,-23.4853462,-47.46445,Sudeste,2017-07-29 12:05:32
+1119,Cliente Vendas Prod. 1119,3.01.01,Vendas de Produtos,SP,SP_limeira,-22.573479,-47.4084792,Sudeste,2017-07-29 12:45:10
+1120,Cliente Vendas Prod. 1120,3.01.01,Vendas de Produtos,RS,RS_porto alegre,-30.0492523,-51.1885815,Sudeste,2017-07-29 22:23:34
+1121,Cliente Vendas Prod. 1121,3.01.01,Vendas de Produtos,SP,SP_atibaia,-23.1231345,-46.560482,Sul,2017-07-30 18:23:02
+1122,Cliente Vendas Prod. 1122,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,Sudeste,2017-07-30 23:40:15
+1123,Cliente Vendas Prod. 1123,3.01.01,Vendas de Produtos,SC,SC_biguacu,-27.5048701,-48.6497106,Sul,2017-07-31 12:50:22
+1124,Cliente Vendas Prod. 1124,3.01.01,Vendas de Produtos,RS,RS_pelotas,-31.7512688,-52.3373624,Norte,2017-07-31 17:03:32
+1125,Cliente Vendas Prod. 1125,3.01.01,Vendas de Produtos,SC,SC_braco do norte,-28.2738931,-49.1651865,Sudeste,2017-08-01 00:43:17
+1126,Cliente Vendas Prod. 1126,3.01.01,Vendas de Produtos,MG,MG_extrema,-22.8554782,-46.3195013,Sudeste,2017-08-02 02:34:32
+1127,Cliente Vendas Prod. 1127,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,Sul,2017-08-02 02:37:17
+1128,Cliente Vendas Prod. 1128,3.01.01,Vendas de Produtos,RJ,RJ_rio de janeiro,-22.9149109,-43.3128773,Sudeste,2017-08-02 16:55:12
+1129,Cliente Vendas Prod. 1129,3.01.01,Vendas de Produtos,RS,RS_santa maria,-29.69474,-53.8020664,Sudeste,2017-08-03 03:05:47
+1130,Cliente Vendas Prod. 1130,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,Sudeste,2017-08-03 13:35:37
+1131,Cliente Vendas Prod. 1131,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,Sudeste,2017-08-04 10:15:32
+1133,Cliente Vendas Prod. 1133,3.01.01,Vendas de Produtos,RJ,RJ_rio de janeiro,-22.9149109,-43.3128773,Sudeste,2017-08-04 20:25:14
+1134,Cliente Vendas Prod. 1134,3.01.01,Vendas de Produtos,RJ,RJ_niteroi,-22.8939271,-43.0863353,Sudeste,2017-08-04 21:15:15
+1135,Cliente Vendas Prod. 1135,3.01.01,Vendas de Produtos,SP,SP_sao bernardo do campo,-23.7076263,-46.5638687,Sudeste,2017-08-06 17:10:18
+1137,Cliente Vendas Prod. 1137,3.01.01,Vendas de Produtos,MG,MG_barao de cocais,-19.9349216,-43.4807232,Sudeste,2017-08-07 13:23:28
+1139,Cliente Vendas Prod. 1139,3.01.01,Vendas de Produtos,BA,BA_caetite,-14.0639224,-42.487506,Sudeste,2017-08-07 15:10:18
+1140,Cliente Vendas Prod. 1140,3.01.01,Vendas de Produtos,DF,DF_brasilia,-15.8110727,-47.9717049,Sul,2017-08-07 17:23:07
+1141,Cliente Vendas Prod. 1141,3.01.01,Vendas de Produtos,MG,MG_grupiara,-18.4972904,-47.7229317,Nordeste,2017-08-08 04:15:23
+1142,Cliente Vendas Prod. 1142,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,Nordeste,2017-08-09 16:03:53
+1145,Cliente Vendas Prod. 1145,3.01.01,Vendas de Produtos,RJ,RJ_rio de janeiro,-22.9149109,-43.3128773,Centro-Oeste,2017-08-09 19:24:39
+1146,Cliente Vendas Prod. 1146,3.01.01,Vendas de Produtos,RJ,RJ_rio de janeiro,-22.9149109,-43.3128773,Sudeste,2017-08-10 13:25:18
+1148,Cliente Vendas Prod. 1148,3.01.01,Vendas de Produtos,MG,MG_contagem,-19.9190394,-44.0578851,Sudeste,2017-08-10 17:30:14
+1149,Cliente Vendas Prod. 1149,3.01.01,Vendas de Produtos,RS,RS_carazinho,-28.2912446,-52.7902558,Sul,2017-08-11 13:05:08
+1150,Cliente Vendas Prod. 1150,3.01.01,Vendas de Produtos,MG,MG_cantagalo,-18.5305429,-42.6228749,Sudeste,2017-08-12 02:51:06
+1151,Cliente Vendas Prod. 1151,3.01.01,Vendas de Produtos,RS,RS_pelotas,-31.7512688,-52.3373624,Sudeste,2017-08-12 22:03:53
+1152,Cliente Vendas Prod. 1152,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,Sudeste,2017-08-13 11:30:17
+1153,Cliente Vendas Prod. 1153,3.01.01,Vendas de Produtos,RJ,RJ_resende,-22.4712231,-44.4608204,Nordeste,2017-08-13 17:46:12
+1154,Cliente Vendas Prod. 1154,3.01.01,Vendas de Produtos,ES,ES_sao mateus,-18.7223656,-39.8447952,Sudeste,2017-08-14 17:30:15
+1155,Cliente Vendas Prod. 1155,3.01.01,Vendas de Produtos,SP,SP_santos,-23.9625232,-46.3278035,Sudeste,2017-08-14 19:44:21
+1156,Cliente Vendas Prod. 1156,3.01.01,Vendas de Produtos,SP,SP_garca,-22.2112321,-49.6581917,Sudeste,2017-08-15 14:44:23
+1159,Cliente Vendas Prod. 1159,3.01.01,Vendas de Produtos,DF,DF_brasilia,-15.8110727,-47.9717049,Nordeste,2017-08-15 19:24:40
+1160,Cliente Vendas Prod. 1160,3.01.01,Vendas de Produtos,GO,GO_catalao,-18.1674957,-47.9437004,Sudeste,2017-08-15 23:45:13
+1161,Cliente Vendas Prod. 1161,3.01.01,Vendas de Produtos,ES,ES_vila velha,-20.359658,-40.3102169,Sudeste,2017-08-16 03:30:12
+1162,Cliente Vendas Prod. 1162,3.01.01,Vendas de Produtos,PI,PI_altos,-5.0379336,-42.4595746,Sudeste,2017-08-17 03:06:08
+1163,Cliente Vendas Prod. 1163,3.01.01,Vendas de Produtos,PR,PR_maringa,-23.4183485,-51.9327721,Centro-Oeste,2017-08-17 10:15:14
+1166,Cliente Vendas Prod. 1166,3.01.01,Vendas de Produtos,RS,RS_pelotas,-31.7512688,-52.3373624,Sudeste,2017-08-17 21:15:23
+1167,Cliente Vendas Prod. 1167,3.01.01,Vendas de Produtos,SP,SP_campinas,-22.9008682,-47.0685368,Sudeste,2017-08-18 02:30:06
+1168,Cliente Vendas Prod. 1168,3.01.01,Vendas de Produtos,SP,SP_itupeva,-23.1573062,-47.0540604,Sudeste,2017-08-18 23:25:09
+1171,Cliente Vendas Prod. 1171,3.01.01,Vendas de Produtos,MG,MG_pirapetinga,-21.6613824,-42.3496932,Sul,2017-08-19 08:04:53
+1172,Cliente Vendas Prod. 1172,3.01.01,Vendas de Produtos,PR,PR_nova santa rosa,-24.4623801,-53.9565043,Sudeste,2017-08-19 11:55:18
+1173,Cliente Vendas Prod. 1173,3.01.01,Vendas de Produtos,SP,SP_catanduva,-21.136969,-48.9721603,Centro-Oeste,2017-08-19 20:55:18
+1174,Cliente Vendas Prod. 1174,3.01.01,Vendas de Produtos,RS,RS_gravatai,-29.9324121,-51.0184607,Sudeste,2017-08-21 17:46:20
+1175,Cliente Vendas Prod. 1175,3.01.01,Vendas de Produtos,MG,MG_belo horizonte,-19.9087721,-43.9575494,Sul,2017-08-22 15:27:16
+1176,Cliente Vendas Prod. 1176,3.01.01,Vendas de Produtos,MG,MG_claudio,-20.4362077,-44.7609461,Sudeste,2017-08-22 20:45:52
+1177,Cliente Vendas Prod. 1177,3.01.01,Vendas de Produtos,PA,PA_belem,-1.4182009,-48.4695107,Sudeste,2017-08-23 14:36:43
+1178,Cliente Vendas Prod. 1178,3.01.01,Vendas de Produtos,RJ,RJ_rio de janeiro,-22.9149109,-43.3128773,Nordeste,2017-08-25 10:30:25
+1179,Cliente Vendas Prod. 1179,3.01.01,Vendas de Produtos,ES,ES_linhares,-19.3834438,-40.0598377,Sudeste,2017-08-25 10:44:56
+1180,Cliente Vendas Prod. 1180,3.01.01,Vendas de Produtos,RJ,RJ_miguel pereira,-22.4559003,-43.4705073,Sudeste,2017-08-30 00:04:21
+1181,Cliente Vendas Prod. 1181,3.01.01,Vendas de Produtos,MG,MG_arcos,-20.2883015,-45.5413007,Nordeste,2017-08-30 02:10:58
+1182,Cliente Vendas Prod. 1182,3.01.01,Vendas de Produtos,SC,SC_imbuia,-27.4887327,-49.422244,Nordeste,2017-09-01 02:30:12
+1184,Cliente Vendas Prod. 1184,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,Sul,2017-09-01 13:55:14
+1186,Cliente Vendas Prod. 1186,3.01.01,Vendas de Produtos,RJ,RJ_nova iguacu,-22.7428488,-43.4723199,Sudeste,2017-09-02 02:50:33
+1187,Cliente Vendas Prod. 1187,3.01.01,Vendas de Produtos,SP,SP_hortolandia,-22.8837276,-47.2048364,Sul,2017-09-02 02:56:10
+1188,Cliente Vendas Prod. 1188,3.01.01,Vendas de Produtos,SP,SP_jacarei,-23.2967287,-45.9637412,Sudeste,2017-09-04 23:04:00
+1189,Cliente Vendas Prod. 1189,3.01.01,Vendas de Produtos,RJ,RJ_barra mansa,-22.5411533,-44.1716922,Nordeste,2017-09-06 10:38:14
+1190,Cliente Vendas Prod. 1190,3.01.01,Vendas de Produtos,RJ,RJ_rio de janeiro,-22.9149109,-43.3128773,Sudeste,2017-09-07 03:03:46
+1191,Cliente Vendas Prod. 1191,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,Sudeste,2017-09-07 11:35:14
+1195,Cliente Vendas Prod. 1195,3.01.01,Vendas de Produtos,RJ,RJ_rio de janeiro,-22.9149109,-43.3128773,Sudeste,2017-09-09 05:24:01
+1196,Cliente Vendas Prod. 1196,3.01.01,Vendas de Produtos,TO,TO_palmas,-10.2152556,-48.3257513,Sudeste,2017-09-11 15:50:53
+1197,Cliente Vendas Prod. 1197,3.01.01,Vendas de Produtos,SP,SP_carapicuiba,-23.5455786,-46.8387756,Nordeste,2017-09-12 04:55:08
+1198,Cliente Vendas Prod. 1198,3.01.01,Vendas de Produtos,PR,PR_londrina,-23.3144159,-51.1654961,Sul,2017-09-12 18:04:33
+1199,Cliente Vendas Prod. 1199,3.01.01,Vendas de Produtos,SP,SP_guarulhos,-23.4464035,-46.4987685,Sudeste,2017-09-15 17:10:44
+1200,Cliente Vendas Prod. 1200,3.01.01,Vendas de Produtos,SC,SC_lages,-27.8132781,-50.3222992,Sudeste,2017-09-16 03:06:12
+1201,Cliente Vendas Prod. 1201,3.01.01,Vendas de Produtos,PR,PR_curitiba,-25.453054,-49.2749963,Nordeste,2017-09-16 11:35:13
+1202,Cliente Vendas Prod. 1202,3.01.01,Vendas de Produtos,SP,SP_sao jose dos campos,-23.2108797,-45.8851865,Nordeste,2017-09-16 21:10:10
+1203,Cliente Vendas Prod. 1203,3.01.01,Vendas de Produtos,MG,MG_belo horizonte,-19.9087721,-43.9575494,Sudeste,2017-09-16 22:05:37
+1204,Cliente Vendas Prod. 1204,3.01.01,Vendas de Produtos,RJ,RJ_sao sebastiao do alto,-21.9512044,-42.1318846,Sudeste,2017-09-19 05:25:09
+1206,Cliente Vendas Prod. 1206,3.01.01,Vendas de Produtos,SC,SC_tubarao,-28.4806824,-49.010621,Sudeste,2017-09-19 14:55:21
+1210,Cliente Vendas Prod. 1210,3.01.01,Vendas de Produtos,BA,BA_feira de santana,-12.2500127,-38.9569619,Norte,2017-09-19 17:15:21
+1211,Cliente Vendas Prod. 1211,3.01.01,Vendas de Produtos,MG,MG_juiz de fora,-21.7541042,-43.3626371,Sudeste,2017-09-20 02:35:08
+1215,Cliente Vendas Prod. 1215,3.01.01,Vendas de Produtos,MT,MT_lucas do rio verde,-13.0669327,-55.9325428,Sudeste,2017-09-21 09:50:24
+1218,Cliente Vendas Prod. 1218,3.01.01,Vendas de Produtos,DF,DF_brasilia,-15.8110727,-47.9717049,Sul,2017-09-21 22:46:14
+1219,Cliente Vendas Prod. 1219,3.01.01,Vendas de Produtos,SP,SP_araraquara,-21.7827129,-48.171715,Sul,2017-09-22 15:05:32
+1220,Cliente Vendas Prod. 1220,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,Nordeste,2017-09-22 22:50:12
+1226,Cliente Vendas Prod. 1226,3.01.01,Vendas de Produtos,SP,SP_campinas,-22.9008682,-47.0685368,Sul,2017-09-23 21:05:17
+1227,Cliente Vendas Prod. 1227,3.01.01,Vendas de Produtos,RJ,RJ_rio de janeiro,-22.9149109,-43.3128773,Sudeste,2017-09-25 17:44:41
+1229,Cliente Vendas Prod. 1229,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,Sul,2017-09-26 03:24:28
+1230,Cliente Vendas Prod. 1230,3.01.01,Vendas de Produtos,RJ,RJ_niteroi,-22.8939271,-43.0863353,Nordeste,2017-09-27 12:49:37
+1232,Cliente Vendas Prod. 1232,3.01.01,Vendas de Produtos,SP,SP_piracicaba,-22.7258411,-47.6466219,Sul,2017-09-27 17:35:15
+1234,Cliente Vendas Prod. 1234,3.01.01,Vendas de Produtos,BA,BA_pocoes,-14.5279912,-40.3677217,Sudeste,2017-09-28 16:25:22
+1235,Cliente Vendas Prod. 1235,3.01.01,Vendas de Produtos,SP,SP_sao caetano do sul,-23.6267476,-46.5650578,Sudeste,2017-09-30 11:14:21
+1237,Cliente Vendas Prod. 1237,3.01.01,Vendas de Produtos,CE,CE_juazeiro do norte,-7.2225495,-39.3161107,Sudeste,2017-10-01 19:35:13
+1238,Cliente Vendas Prod. 1238,3.01.01,Vendas de Produtos,MG,MG_sabara,-19.883327,-43.8476375,Sudeste,2017-10-02 09:56:17
+1239,Cliente Vendas Prod. 1239,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,Sudeste,2017-10-02 16:05:19
+1249,Cliente Vendas Prod. 1249,3.01.01,Vendas de Produtos,MS,MS_corumba,-19.0115483,-57.6503006,Sudeste,2017-10-02 17:49:34
+1250,Cliente Vendas Prod. 1250,3.01.01,Vendas de Produtos,PE,PE_paulista,-7.9319233,-34.8583783,Sudeste,2017-10-03 19:56:22
+1251,Cliente Vendas Prod. 1251,3.01.01,Vendas de Produtos,CE,CE_caucaia,-3.7375844,-38.6503292,Sudeste,2017-10-04 01:01:47
+1252,Cliente Vendas Prod. 1252,3.01.01,Vendas de Produtos,MG,MG_vicosa,-20.7543419,-42.8779556,Sul,2017-10-05 02:44:14
+1253,Cliente Vendas Prod. 1253,3.01.01,Vendas de Produtos,SP,SP_bauru,-22.3266828,-49.0666825,Sudeste,2017-10-07 13:05:02
+1254,Cliente Vendas Prod. 1254,3.01.01,Vendas de Produtos,ES,ES_conceicao do castelo,-20.3624248,-41.248641,Sudeste,2017-10-09 14:07:27
+1255,Cliente Vendas Prod. 1255,3.01.01,Vendas de Produtos,SP,SP_mairipora,-23.3302933,-46.5974367,Centro-Oeste,2017-10-11 03:14:34
+1256,Cliente Vendas Prod. 1256,3.01.01,Vendas de Produtos,RJ,RJ_rio de janeiro,-22.9149109,-43.3128773,Sudeste,2017-10-11 15:08:24
+1257,Cliente Vendas Prod. 1257,3.01.01,Vendas de Produtos,MT,MT_caceres,-16.0654768,-57.6861735,Sudeste,2017-10-12 01:26:16
+1261,Cliente Vendas Prod. 1261,3.01.01,Vendas de Produtos,SC,SC_florianopolis,-27.5768356,-48.5179518,Sudeste,2017-10-12 09:14:11
+1262,Cliente Vendas Prod. 1262,3.01.01,Vendas de Produtos,MG,MG_governador valadares,-18.8641777,-41.9535897,Nordeste,2017-10-12 12:14:25
+1263,Cliente Vendas Prod. 1263,3.01.01,Vendas de Produtos,PE,PE_sao domingos,-14.078806,-38.2929352,Sudeste,2017-10-12 21:28:10
+1264,Cliente Vendas Prod. 1264,3.01.01,Vendas de Produtos,RJ,RJ_resende,-22.4712231,-44.4608204,Sudeste,2017-10-12 21:49:14
+1266,Cliente Vendas Prod. 1266,3.01.01,Vendas de Produtos,SP,SP_sao caetano do sul,-23.6267476,-46.5650578,Sudeste,2017-10-12 21:49:26
+1267,Cliente Vendas Prod. 1267,3.01.01,Vendas de Produtos,RJ,RJ_petropolis,-22.4768193,-43.1708676,Sudeste,2017-10-13 10:49:47
+1268,Cliente Vendas Prod. 1268,3.01.01,Vendas de Produtos,GO,GO_goianapolis,-16.5070334,-49.019789,Sudeste,2017-10-14 03:46:25
+1269,Cliente Vendas Prod. 1269,3.01.01,Vendas de Produtos,SP,SP_campinas,-22.9008682,-47.0685368,Sudeste,2017-10-14 16:14:17
+1270,Cliente Vendas Prod. 1270,3.01.01,Vendas de Produtos,RJ,RJ_rio de janeiro,-22.9149109,-43.3128773,Sudeste,2017-10-15 09:49:08
+1271,Cliente Vendas Prod. 1271,3.01.01,Vendas de Produtos,MG,MG_belo horizonte,-19.9087721,-43.9575494,Sudeste,2017-10-15 10:49:15
+1272,Cliente Vendas Prod. 1272,3.01.01,Vendas de Produtos,BA,BA_irece,-11.3039604,-41.856084,Sudeste,2017-10-16 15:50:36
+1273,Cliente Vendas Prod. 1273,3.01.01,Vendas de Produtos,BA,BA_juazeiro,-9.4248676,-40.5016745,Nordeste,2017-10-16 21:50:21
+1274,Cliente Vendas Prod. 1274,3.01.01,Vendas de Produtos,BA,BA_inhambupe,-11.7880639,-38.355366,Sudeste,2017-10-17 03:49:26
+1275,Cliente Vendas Prod. 1275,3.01.01,Vendas de Produtos,BA,BA_antonio cardoso,-12.4378045,-39.1203878,Sudeste,2017-10-17 03:49:34
+1276,Cliente Vendas Prod. 1276,3.01.01,Vendas de Produtos,ES,ES_venda nova do imigrante,-20.3388552,-41.1329316,Sudeste,2017-10-17 09:56:24
+1278,Cliente Vendas Prod. 1278,3.01.01,Vendas de Produtos,PR,PR_medianeira,-25.2932017,-54.0951342,Nordeste,2017-10-17 19:45:54
+1279,Cliente Vendas Prod. 1279,3.01.01,Vendas de Produtos,SP,SP_mogi das cruzes,-23.5304016,-46.193888,Sudeste,2017-10-18 03:27:23
+1280,Cliente Vendas Prod. 1280,3.01.01,Vendas de Produtos,SP,SP_taboao da serra,-23.6207381,-46.7801555,Sudeste,2017-10-18 20:35:18
+1281,Cliente Vendas Prod. 1281,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,Sul,2017-10-19 02:49:13
+1282,Cliente Vendas Prod. 1282,3.01.01,Vendas de Produtos,RJ,RJ_rio de janeiro,-22.9149109,-43.3128773,Sul,2017-10-19 09:28:19
+1283,Cliente Vendas Prod. 1283,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,Nordeste,2017-10-19 13:56:21
+1284,Cliente Vendas Prod. 1284,3.01.01,Vendas de Produtos,SP,SP_osasco,-23.5365609,-46.7882836,Nordeste,2017-10-20 02:49:28
+1285,Cliente Vendas Prod. 1285,3.01.01,Vendas de Produtos,PR,PR_curitiba,-25.453054,-49.2749963,Sudeste,2017-10-20 02:49:41
+1286,Cliente Vendas Prod. 1286,3.01.01,Vendas de Produtos,PR,PR_almirante tamandare,-25.333449,-49.2840173,Sudeste,2017-10-20 23:14:10
+1287,Cliente Vendas Prod. 1287,3.01.01,Vendas de Produtos,RJ,RJ_rio de janeiro,-22.9149109,-43.3128773,Sudeste,2017-10-21 03:05:53
+1289,Cliente Vendas Prod. 1289,3.01.01,Vendas de Produtos,RS,RS_santa maria,-29.69474,-53.8020664,Sudeste,2017-10-21 03:07:20
+1290,Cliente Vendas Prod. 1290,3.01.01,Vendas de Produtos,SP,SP_campinas,-22.9008682,-47.0685368,Sudeste,2017-10-23 09:14:19
+1295,Cliente Vendas Prod. 1295,3.01.01,Vendas de Produtos,RJ,RJ_rio de janeiro,-22.9149109,-43.3128773,Sudeste,2017-10-24 06:36:55
+1296,Cliente Vendas Prod. 1296,3.01.01,Vendas de Produtos,RS,RS_porto alegre,-30.0492523,-51.1885815,Sul,2017-10-25 02:07:24
+1297,Cliente Vendas Prod. 1297,3.01.01,Vendas de Produtos,RN,RN_parnamirim,-5.9007843,-35.2313476,Sudeste,2017-10-25 02:08:29
+1298,Cliente Vendas Prod. 1298,3.01.01,Vendas de Produtos,SP,SP_santo anastacio,-21.9768743,-51.6525966,Centro-Oeste,2017-10-25 09:49:20
+1299,Cliente Vendas Prod. 1299,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,Sudeste,2017-10-25 17:36:32
+1303,Cliente Vendas Prod. 1303,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,Sudeste,2017-10-25 19:07:39
+1304,Cliente Vendas Prod. 1304,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,Sudeste,2017-10-25 22:25:40
+1305,Cliente Vendas Prod. 1305,3.01.01,Vendas de Produtos,MA,MA_sao luis,-2.5305847,-44.2542139,Nordeste,2017-10-26 09:07:43
+1310,Cliente Vendas Prod. 1310,3.01.01,Vendas de Produtos,BA,BA_salvador,-12.9626546,-38.461683,Sudeste,2017-10-26 14:56:26
+1311,Cliente Vendas Prod. 1311,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,Sudeste,2017-10-27 03:10:27
+1312,Cliente Vendas Prod. 1312,3.01.01,Vendas de Produtos,RJ,RJ_sao goncalo,-22.82803,-43.0275321,Sudeste,2017-10-27 21:46:13
+1313,Cliente Vendas Prod. 1313,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,Sudeste,2017-10-28 12:50:11
+1315,Cliente Vendas Prod. 1315,3.01.01,Vendas de Produtos,PR,PR_ponta grossa,-25.0932013,-50.1570546,Sudeste,2017-10-29 11:50:45
+1316,Cliente Vendas Prod. 1316,3.01.01,Vendas de Produtos,RJ,RJ_monnerat,,,Sudeste,2017-10-29 15:10:11
+1317,Cliente Vendas Prod. 1317,3.01.01,Vendas de Produtos,SP,SP_vargem grande paulista,-23.6226334,-47.0127042,Sudeste,2017-10-29 18:30:53
+1318,Cliente Vendas Prod. 1318,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,Sudeste,2017-10-31 03:55:25
+1319,Cliente Vendas Prod. 1319,3.01.01,Vendas de Produtos,AL,AL_maceio,-9.6290925,-35.7312048,Sudeste,2017-10-31 12:35:27
+1324,Cliente Vendas Prod. 1324,3.01.01,Vendas de Produtos,SP,SP_hortolandia,-22.8837276,-47.2048364,Centro-Oeste,2017-10-31 18:31:10
+1325,Cliente Vendas Prod. 1325,3.01.01,Vendas de Produtos,SP,SP_sao jose dos campos,-23.2108797,-45.8851865,Sul,2017-10-31 22:45:53
+1326,Cliente Vendas Prod. 1326,3.01.01,Vendas de Produtos,RJ,RJ_nova friburgo,-22.2799748,-42.5266454,Sudeste,2017-11-02 16:30:25
+1328,Cliente Vendas Prod. 1328,3.01.01,Vendas de Produtos,SP,SP_jaboticabal,-21.2568272,-48.3201537,Sudeste,2017-11-02 19:10:56
+1329,Cliente Vendas Prod. 1329,3.01.01,Vendas de Produtos,RJ,RJ_rio de janeiro,-22.9149109,-43.3128773,Sudeste,2017-11-03 17:09:20
+1330,Cliente Vendas Prod. 1330,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,Sudeste,2017-11-03 23:55:49
+1334,Cliente Vendas Prod. 1334,3.01.01,Vendas de Produtos,SP,SP_diadema,-23.6897684,-46.6117408,Sudeste,2017-11-04 06:25:46
+1335,Cliente Vendas Prod. 1335,3.01.01,Vendas de Produtos,MG,MG_lavras,-21.2447114,-44.9991955,Nordeste,2017-11-04 06:25:49
+1336,Cliente Vendas Prod. 1336,3.01.01,Vendas de Produtos,SP,SP_tiete,-23.1015916,-47.7117831,Sul,2017-11-04 07:15:27
+1337,Cliente Vendas Prod. 1337,3.01.01,Vendas de Produtos,CE,CE_pacuja,-3.9800788,-40.6959284,Sudeste,2017-11-06 13:31:25
+1340,Cliente Vendas Prod. 1340,3.01.01,Vendas de Produtos,ES,ES_vila velha,-20.359658,-40.3102169,Sudeste,2017-11-07 03:31:17
+1341,Cliente Vendas Prod. 1341,3.01.01,Vendas de Produtos,RS,RS_porto alegre,-30.0492523,-51.1885815,Sudeste,2017-11-07 05:31:35
+1342,Cliente Vendas Prod. 1342,3.01.01,Vendas de Produtos,PA,PA_maraba,-5.3658711,-49.1202889,Sudeste,2017-11-07 06:31:23
+1343,Cliente Vendas Prod. 1343,3.01.01,Vendas de Produtos,PR,PR_foz do iguacu,-25.5208824,-54.5646424,Norte,2017-11-07 07:30:43
+1344,Cliente Vendas Prod. 1344,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,Nordeste,2017-11-07 12:50:39
+1345,Cliente Vendas Prod. 1345,3.01.01,Vendas de Produtos,RJ,RJ_rio de janeiro,-22.9149109,-43.3128773,Sudeste,2017-11-07 16:31:17
+1353,Cliente Vendas Prod. 1353,3.01.01,Vendas de Produtos,CE,CE_barro,-7.1739468,-38.7784931,Centro-Oeste,2017-11-07 22:15:31
+1354,Cliente Vendas Prod. 1354,3.01.01,Vendas de Produtos,SP,SP_sumare,-22.8203749,-47.2318262,Sudeste,2017-11-08 03:26:25
+1355,Cliente Vendas Prod. 1355,3.01.01,Vendas de Produtos,PE,PE_timbauba,-7.5122115,-35.3168503,Sudeste,2017-11-08 03:26:34
+1356,Cliente Vendas Prod. 1356,3.01.01,Vendas de Produtos,PA,PA_paragominas,-2.9949863,-47.3575545,Sudeste,2017-11-08 03:35:32
+1358,Cliente Vendas Prod. 1358,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,Sul,2017-11-08 03:46:07
+1359,Cliente Vendas Prod. 1359,3.01.01,Vendas de Produtos,PE,PE_paulista,-7.9319233,-34.8583783,Sudeste,2017-11-08 13:15:34
+1360,Cliente Vendas Prod. 1360,3.01.01,Vendas de Produtos,PA,PA_santarem,-2.4364075,-54.7192416,Sudeste,2017-11-10 00:47:48
+1362,Cliente Vendas Prod. 1362,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,Sul,2017-11-10 22:06:55
+1363,Cliente Vendas Prod. 1363,3.01.01,Vendas de Produtos,SP,SP_ribeirao preto,-21.1807506,-47.8042811,Sul,2017-11-11 17:55:29
+1364,Cliente Vendas Prod. 1364,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,Sudeste,2017-11-11 23:26:30
+1365,Cliente Vendas Prod. 1365,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,Sudeste,2017-11-11 23:30:38
+1366,Cliente Vendas Prod. 1366,3.01.01,Vendas de Produtos,PR,PR_curitiba,-25.453054,-49.2749963,Sudeste,2017-11-12 22:06:37
+1367,Cliente Vendas Prod. 1367,3.01.01,Vendas de Produtos,RJ,RJ_araruama,-22.8693098,-42.321256,Sul,2017-11-13 10:46:45
+1369,Cliente Vendas Prod. 1369,3.01.01,Vendas de Produtos,MG,MG_belo horizonte,-19.9087721,-43.9575494,Sudeste,2017-11-13 14:55:27
+1370,Cliente Vendas Prod. 1370,3.01.01,Vendas de Produtos,RJ,RJ_rio de janeiro,-22.9149109,-43.3128773,Sudeste,2017-11-13 17:27:21
+1371,Cliente Vendas Prod. 1371,3.01.01,Vendas de Produtos,RJ,RJ_rio de janeiro,-22.9149109,-43.3128773,Centro-Oeste,2017-11-14 04:10:41
+1373,Cliente Vendas Prod. 1373,3.01.01,Vendas de Produtos,MG,MG_piedade do rio grande,-21.4704295,-44.1924056,Sudeste,2017-11-14 04:26:53
+1375,Cliente Vendas Prod. 1375,3.01.01,Vendas de Produtos,ES,ES_pancas,-19.1948936,-40.8441339,Sudeste,2017-11-14 09:35:27
+1376,Cliente Vendas Prod. 1376,3.01.01,Vendas de Produtos,MG,MG_araxa,-19.5922726,-46.9390871,Sudeste,2017-11-14 10:06:43
+1377,Cliente Vendas Prod. 1377,3.01.01,Vendas de Produtos,AC,AC_xapuri,-10.6522262,-68.5029347,Nordeste,2017-11-14 16:36:07
+1378,Cliente Vendas Prod. 1378,3.01.01,Vendas de Produtos,RJ,RJ_rio de janeiro,-22.9149109,-43.3128773,Sul,2017-11-14 18:10:39
+1379,Cliente Vendas Prod. 1379,3.01.01,Vendas de Produtos,RJ,RJ_aperibe,-21.6258203,-42.1048225,Sudeste,2017-11-14 22:16:21
+1380,Cliente Vendas Prod. 1380,3.01.01,Vendas de Produtos,MG,MG_sao joao nepomuceno,-21.5937972,-43.0666623,Sul,2017-11-15 13:26:31
+1382,Cliente Vendas Prod. 1382,3.01.01,Vendas de Produtos,SP,SP_taubate,-23.025346,-45.564023,Sudeste,2017-11-15 20:10:36
+1384,Cliente Vendas Prod. 1384,3.01.01,Vendas de Produtos,DF,DF_brasilia,-15.8110727,-47.9717049,Sul,2017-11-16 19:35:02
+1385,Cliente Vendas Prod. 1385,3.01.01,Vendas de Produtos,RJ,RJ_niteroi,-22.8939271,-43.0863353,Sudeste,2017-11-17 03:35:39
+1386,Cliente Vendas Prod. 1386,3.01.01,Vendas de Produtos,BA,BA_paulo afonso,-9.4071293,-38.2226133,Sudeste,2017-11-17 03:50:37
+1388,Cliente Vendas Prod. 1388,3.01.01,Vendas de Produtos,SP,SP_sao jose dos campos,-23.2108797,-45.8851865,Sudeste,2017-11-17 04:10:23
+1389,Cliente Vendas Prod. 1389,3.01.01,Vendas de Produtos,RJ,RJ_rio de janeiro,-22.9149109,-43.3128773,Sudeste,2017-11-17 10:51:04
+1390,Cliente Vendas Prod. 1390,3.01.01,Vendas de Produtos,SP,SP_taubate,-23.025346,-45.564023,Sudeste,2017-11-17 13:55:31
+1391,Cliente Vendas Prod. 1391,3.01.01,Vendas de Produtos,RJ,RJ_rio de janeiro,-22.9149109,-43.3128773,Sudeste,2017-11-17 20:50:34
+1392,Cliente Vendas Prod. 1392,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,Nordeste,2017-11-18 13:55:30
+1393,Cliente Vendas Prod. 1393,3.01.01,Vendas de Produtos,SP,SP_tarabai,-22.3044901,-51.5582775,Sudeste,2017-11-18 15:26:22
+1394,Cliente Vendas Prod. 1394,3.01.01,Vendas de Produtos,PR,PR_curitiba,-25.453054,-49.2749963,Centro-Oeste,2017-11-18 20:26:15
+1395,Cliente Vendas Prod. 1395,3.01.01,Vendas de Produtos,RS,RS_montenegro,-29.6878042,-51.467964,Sudeste,2017-11-18 21:46:07
+1396,Cliente Vendas Prod. 1396,3.01.01,Vendas de Produtos,SP,SP_santos,-23.9625232,-46.3278035,Sul,2017-11-20 12:35:30
+1397,Cliente Vendas Prod. 1397,3.01.01,Vendas de Produtos,RJ,RJ_rio de janeiro,-22.9149109,-43.3128773,Sul,2017-11-20 13:16:46
+1398,Cliente Vendas Prod. 1398,3.01.01,Vendas de Produtos,RJ,RJ_rio de janeiro,-22.9149109,-43.3128773,Sudeste,2017-11-20 15:46:40
+1400,Cliente Vendas Prod. 1400,3.01.01,Vendas de Produtos,PR,PR_medianeira,-25.2932017,-54.0951342,Centro-Oeste,2017-11-20 16:26:42
+1401,Cliente Vendas Prod. 1401,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,Sul,2017-11-24 12:52:51
+1402,Cliente Vendas Prod. 1402,3.01.01,Vendas de Produtos,SP,SP_osasco,-23.5365609,-46.7882836,Sudeste,2017-11-27 20:19:35
+1403,Cliente Vendas Prod. 1403,3.01.01,Vendas de Produtos,PE,PE_recife,-8.0681389,-34.9136321,Sul,2017-11-27 23:56:21
+1404,Cliente Vendas Prod. 1404,3.01.01,Vendas de Produtos,RJ,RJ_rio de janeiro,-22.9149109,-43.3128773,Sudeste,2017-11-28 07:59:29
+1405,Cliente Vendas Prod. 1405,3.01.01,Vendas de Produtos,SP,SP_maua,-23.6699938,-46.4489087,Nordeste,2017-11-28 18:32:28
+1406,Cliente Vendas Prod. 1406,3.01.01,Vendas de Produtos,RJ,RJ_nova iguacu,-22.7428488,-43.4723199,Sudeste,2017-11-28 20:31:36
+1407,Cliente Vendas Prod. 1407,3.01.01,Vendas de Produtos,SP,SP_sertaozinho,-21.1316153,-47.9931092,Sudeste,2017-11-29 19:16:55
+1408,Cliente Vendas Prod. 1408,3.01.01,Vendas de Produtos,BA,BA_ruy barbosa,-12.2833515,-40.4985889,Sudeste,2017-11-29 23:17:58
+1409,Cliente Vendas Prod. 1409,3.01.01,Vendas de Produtos,RJ,RJ_rio de janeiro,-22.9149109,-43.3128773,Sudeste,2017-11-30 02:21:45
+1410,Cliente Vendas Prod. 1410,3.01.01,Vendas de Produtos,PA,PA_belem,-1.4182009,-48.4695107,Nordeste,2017-11-30 02:22:07
+1411,Cliente Vendas Prod. 1411,3.01.01,Vendas de Produtos,PR,PR_foz do iguacu,-25.5208824,-54.5646424,Nordeste,2017-12-01 11:31:39
+1414,Cliente Vendas Prod. 1414,3.01.01,Vendas de Produtos,RJ,RJ_rio de janeiro,-22.9149109,-43.3128773,Sudeste,2017-12-01 11:31:55
+1416,Cliente Vendas Prod. 1416,3.01.01,Vendas de Produtos,SP,SP_guararapes,-21.2505867,-50.646445,Sudeste,2017-12-01 12:31:37
+1418,Cliente Vendas Prod. 1418,3.01.01,Vendas de Produtos,MG,MG_belo horizonte,-19.9087721,-43.9575494,Centro-Oeste,2017-12-01 21:57:23
+1419,Cliente Vendas Prod. 1419,3.01.01,Vendas de Produtos,BA,BA_barreiras,-12.1482914,-44.9672601,Sudeste,2017-12-02 09:50:24
+1420,Cliente Vendas Prod. 1420,3.01.01,Vendas de Produtos,MG,MG_belo horizonte,-19.9087721,-43.9575494,Sul,2017-12-03 14:59:22
+1421,Cliente Vendas Prod. 1421,3.01.01,Vendas de Produtos,SP,SP_areias,-22.5822873,-44.6961558,Sudeste,2017-12-03 23:31:38
+1425,Cliente Vendas Prod. 1425,3.01.01,Vendas de Produtos,RJ,RJ_rio de janeiro,-22.9149109,-43.3128773,Nordeste,2017-12-04 00:50:07
+1426,Cliente Vendas Prod. 1426,3.01.01,Vendas de Produtos,SP,SP_osasco,-23.5365609,-46.7882836,Sudeste,2017-12-04 07:54:49
+1427,Cliente Vendas Prod. 1427,3.01.01,Vendas de Produtos,SP,SP_cruzeiro,-22.5726793,-44.9616305,Sudeste,2017-12-05 22:50:44
+1428,Cliente Vendas Prod. 1428,3.01.01,Vendas de Produtos,RJ,RJ_pinheiral,-22.5119921,-44.0068173,Sudeste,2017-12-05 23:56:44
+1429,Cliente Vendas Prod. 1429,3.01.01,Vendas de Produtos,PE,PE_olinda,-7.9908921,-34.8573064,Sudeste,2017-12-06 02:35:46
+1430,Cliente Vendas Prod. 1430,3.01.01,Vendas de Produtos,SC,SC_blumenau,-26.8995451,-49.0885927,Sudeste,2017-12-06 02:50:22
+1431,Cliente Vendas Prod. 1431,3.01.01,Vendas de Produtos,RJ,RJ_rio de janeiro,-22.9149109,-43.3128773,Sudeste,2017-12-07 03:15:42
+1437,Cliente Vendas Prod. 1437,3.01.01,Vendas de Produtos,SP,SP_barueri,-23.5059127,-46.8693586,Sudeste,2017-12-07 16:51:57
+1438,Cliente Vendas Prod. 1438,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,Centro-Oeste,2017-12-07 17:33:29
+1439,Cliente Vendas Prod. 1439,3.01.01,Vendas de Produtos,RJ,RJ_sao goncalo,-22.82803,-43.0275321,Sudeste,2017-12-08 00:31:15
+1441,Cliente Vendas Prod. 1441,3.01.01,Vendas de Produtos,BA,BA_mucuri,-18.0689508,-39.5803457,Centro-Oeste,2017-12-08 10:33:32
+1442,Cliente Vendas Prod. 1442,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,Sudeste,2017-12-08 18:10:17
+1443,Cliente Vendas Prod. 1443,3.01.01,Vendas de Produtos,RS,RS_gramado,-29.3817376,-50.8740116,Sudeste,2017-12-11 16:43:06
+1444,Cliente Vendas Prod. 1444,3.01.01,Vendas de Produtos,RJ,RJ_bom jardim,-22.1596263,-42.4168865,Sudeste,2017-12-11 19:30:54
+1445,Cliente Vendas Prod. 1445,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,Sudeste,2017-12-11 19:34:20
+1446,Cliente Vendas Prod. 1446,3.01.01,Vendas de Produtos,MG,MG_leopoldina,-21.5301643,-42.6408986,Sudeste,2017-12-11 21:53:32
+1447,Cliente Vendas Prod. 1447,3.01.01,Vendas de Produtos,SP,SP_leme,-22.1852882,-47.3856211,Sudeste,2017-12-12 04:09:07
+1448,Cliente Vendas Prod. 1448,3.01.01,Vendas de Produtos,RJ,RJ_niteroi,-22.8939271,-43.0863353,Sudeste,2017-12-12 04:09:17
+1449,Cliente Vendas Prod. 1449,3.01.01,Vendas de Produtos,SP,SP_presidente prudente,-22.1214917,-51.4046719,Sudeste,2017-12-12 15:50:55
+1450,Cliente Vendas Prod. 1450,3.01.01,Vendas de Produtos,SP,SP_ferraz de vasconcelos,-23.5412962,-46.3736576,Sudeste,2017-12-12 22:32:39
+1451,Cliente Vendas Prod. 1451,3.01.01,Vendas de Produtos,RJ,RJ_barra mansa,-22.5411533,-44.1716922,Sudeste,2017-12-14 02:12:33
+1452,Cliente Vendas Prod. 1452,3.01.01,Vendas de Produtos,RJ,RJ_rio de janeiro,-22.9149109,-43.3128773,Sudeste,2017-12-14 02:14:35
+1453,Cliente Vendas Prod. 1453,3.01.01,Vendas de Produtos,SP,SP_birigui,-21.2914859,-50.338341,Sudeste,2018-01-03 17:26:56
+1456,Cliente Vendas Prod. 1456,3.01.01,Vendas de Produtos,GO,GO_aparecida de goiania,-16.7770942,-49.2755687,Sudeste,2018-01-03 19:31:39
+1457,Cliente Vendas Prod. 1457,3.01.01,Vendas de Produtos,TO,TO_palmas,-10.2152556,-48.3257513,Sudeste,2018-01-04 05:23:13
+1459,Cliente Vendas Prod. 1459,3.01.01,Vendas de Produtos,SP,SP_sao vicente,-23.9649981,-46.393603,Sudeste,2018-01-05 01:32:24
+1460,Cliente Vendas Prod. 1460,3.01.01,Vendas de Produtos,SP,SP_itu,-23.2860224,-47.3032809,Sudeste,2018-01-06 08:27:39
+1461,Cliente Vendas Prod. 1461,3.01.01,Vendas de Produtos,SP,SP_franca,-20.5340568,-47.3984366,Sudeste,2018-01-06 13:16:25
+1462,Cliente Vendas Prod. 1462,3.01.01,Vendas de Produtos,MG,MG_contagem,-19.9190394,-44.0578851,Sudeste,2018-01-06 13:48:40
+1463,Cliente Vendas Prod. 1463,3.01.01,Vendas de Produtos,SC,SC_itapema,-27.1047757,-48.6222962,Sudeste,2018-01-06 19:26:41
+1464,Cliente Vendas Prod. 1464,3.01.01,Vendas de Produtos,PR,PR_almirante tamandare,-25.333449,-49.2840173,Sudeste,2018-01-06 19:26:43
+1465,Cliente Vendas Prod. 1465,3.01.01,Vendas de Produtos,RJ,RJ_rio de janeiro,-22.9149109,-43.3128773,Sudeste,2018-01-06 23:12:29
+1466,Cliente Vendas Prod. 1466,3.01.01,Vendas de Produtos,PE,PE_recife,-8.0681389,-34.9136321,Nordeste,2018-01-07 17:07:10
+1467,Cliente Vendas Prod. 1467,3.01.01,Vendas de Produtos,ES,ES_guacui,-20.7729117,-41.6754967,Sudeste,2018-01-08 17:49:14
+1468,Cliente Vendas Prod. 1468,3.01.01,Vendas de Produtos,SC,SC_governador celso ramos,-27.3433674,-48.5533304,Nordeste,2018-01-09 07:24:30
+1469,Cliente Vendas Prod. 1469,3.01.01,Vendas de Produtos,RJ,RJ_rio de janeiro,-22.9149109,-43.3128773,Sudeste,2018-01-09 07:25:32
+1472,Cliente Vendas Prod. 1472,3.01.01,Vendas de Produtos,SP,SP_pindamonhangaba,-22.9293843,-45.4426329,Sudeste,2018-01-09 07:25:40
+1474,Cliente Vendas Prod. 1474,3.01.01,Vendas de Produtos,GO,GO_goiania,-16.6845866,-49.2744805,Sudeste,2018-01-10 10:32:49
+1475,Cliente Vendas Prod. 1475,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,Sudeste,2018-01-10 16:49:37
+1476,Cliente Vendas Prod. 1476,3.01.01,Vendas de Produtos,SP,SP_taboao da serra,-23.6207381,-46.7801555,Sudeste,2018-01-10 20:08:06
+1477,Cliente Vendas Prod. 1477,3.01.01,Vendas de Produtos,RO,RO_alvorada d'oeste,-11.3502314,-62.2875119,Sudeste,2018-01-10 20:10:24
+1479,Cliente Vendas Prod. 1479,3.01.01,Vendas de Produtos,SP,SP_sao roque,-23.535589,-47.1279016,Sudeste,2018-01-11 02:38:31
+1480,Cliente Vendas Prod. 1480,3.01.01,Vendas de Produtos,SP,SP_guaratingueta,-22.7999945,-45.1935525,Sudeste,2018-01-11 02:48:45
+1481,Cliente Vendas Prod. 1481,3.01.01,Vendas de Produtos,BA,BA_barreiras,-12.1482914,-44.9672601,Sul,2018-01-11 16:55:38
+1483,Cliente Vendas Prod. 1483,3.01.01,Vendas de Produtos,MG,MG_rio pomba,-21.2714167,-43.1786712,Sudeste,2018-01-11 22:10:28
+1485,Cliente Vendas Prod. 1485,3.01.01,Vendas de Produtos,RS,RS_estancia velha,-29.4283887,-50.9977012,Sudeste,2018-01-12 09:18:00
+1486,Cliente Vendas Prod. 1486,3.01.01,Vendas de Produtos,SP,SP_bauru,-22.3266828,-49.0666825,Centro-Oeste,2018-01-12 10:29:33
+1487,Cliente Vendas Prod. 1487,3.01.01,Vendas de Produtos,SP,SP_santo andre,-23.6600311,-46.5219659,Centro-Oeste,2018-01-12 10:57:21
+1488,Cliente Vendas Prod. 1488,3.01.01,Vendas de Produtos,BA,BA_santa maria da vitoria,-13.3885118,-44.2003306,Sudeste,2018-01-13 02:09:39
+1490,Cliente Vendas Prod. 1490,3.01.01,Vendas de Produtos,RJ,RJ_nova iguacu,-22.7428488,-43.4723199,Sudeste,2018-01-13 22:09:32
+1491,Cliente Vendas Prod. 1491,3.01.01,Vendas de Produtos,RJ,RJ_rio de janeiro,-22.9149109,-43.3128773,Sudeste,2018-01-13 22:10:20
+1493,Cliente Vendas Prod. 1493,3.01.01,Vendas de Produtos,SP,SP_sao bernardo do campo,-23.7076263,-46.5638687,Sudeste,2018-01-14 14:51:23
+1494,Cliente Vendas Prod. 1494,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,Sudeste,2018-01-15 00:36:29
+1495,Cliente Vendas Prod. 1495,3.01.01,Vendas de Produtos,ES,ES_serra,-20.1775534,-40.2482765,Sudeste,2018-01-15 11:09:38
+1496,Cliente Vendas Prod. 1496,3.01.01,Vendas de Produtos,SP,SP_guarulhos,-23.4464035,-46.4987685,Sudeste,2018-01-15 15:50:53
+1499,Cliente Vendas Prod. 1499,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,Sudeste,2018-01-15 23:52:21
+1500,Cliente Vendas Prod. 1500,3.01.01,Vendas de Produtos,RO,RO_porto velho,-8.7728965,-63.8986054,Nordeste,2018-01-16 02:10:09
+1501,Cliente Vendas Prod. 1501,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,Nordeste,2018-01-16 07:10:31
+1502,Cliente Vendas Prod. 1502,3.01.01,Vendas de Produtos,RJ,RJ_petropolis,-22.4768193,-43.1708676,Norte,2018-01-16 21:51:29
+1504,Cliente Vendas Prod. 1504,3.01.01,Vendas de Produtos,MT,MT_colider,-10.8074368,-55.4575001,Sudeste,2018-01-17 03:39:34
+1505,Cliente Vendas Prod. 1505,3.01.01,Vendas de Produtos,MA,MA_imperatriz,-5.5193781,-47.4772912,Sudeste,2018-01-17 10:00:36
+1507,Cliente Vendas Prod. 1507,3.01.01,Vendas de Produtos,SP,SP_piracaia,-23.0558609,-46.359236,Nordeste,2018-01-17 10:14:32
+1508,Cliente Vendas Prod. 1508,3.01.01,Vendas de Produtos,RJ,RJ_rio de janeiro,-22.9149109,-43.3128773,Sudeste,2018-01-18 02:11:51
+1509,Cliente Vendas Prod. 1509,3.01.01,Vendas de Produtos,RJ,RJ_rio de janeiro,-22.9149109,-43.3128773,Sul,2018-01-18 18:39:28
+1510,Cliente Vendas Prod. 1510,3.01.01,Vendas de Produtos,SP,SP_jaboticabal,-21.2568272,-48.3201537,Sudeste,2018-01-19 05:32:47
+1512,Cliente Vendas Prod. 1512,3.01.01,Vendas de Produtos,PI,PI_parnaiba,-2.9150419,-41.762168,Sudeste,2018-01-20 00:33:03
+1513,Cliente Vendas Prod. 1513,3.01.01,Vendas de Produtos,MG,MG_sete lagoas,-19.4569227,-44.2399369,Sudeste,2018-01-20 01:07:36
+1514,Cliente Vendas Prod. 1514,3.01.01,Vendas de Produtos,MG,MG_betim,-19.9540662,-44.1669616,Sudeste,2018-01-20 09:07:49
+1515,Cliente Vendas Prod. 1515,3.01.01,Vendas de Produtos,PE,PE_serra talhada,-7.9882103,-38.2940629,Sudeste,2018-01-20 09:09:21
+1516,Cliente Vendas Prod. 1516,3.01.01,Vendas de Produtos,RS,RS_farroupilha,-29.2684971,-51.3465382,Sudeste,2018-01-20 09:09:49
+1517,Cliente Vendas Prod. 1517,3.01.01,Vendas de Produtos,RJ,RJ_rio de janeiro,-22.9149109,-43.3128773,Sudeste,2018-01-20 09:10:04
+1518,Cliente Vendas Prod. 1518,3.01.01,Vendas de Produtos,SP,SP_praia grande,-24.0214237,-46.4618239,Sul,2018-01-20 15:22:07
+1519,Cliente Vendas Prod. 1519,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,Sul,2018-01-20 16:21:21
+1520,Cliente Vendas Prod. 1520,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,Sudeste,2018-01-22 13:44:32
+1521,Cliente Vendas Prod. 1521,3.01.01,Vendas de Produtos,SP,SP_barueri,-23.5059127,-46.8693586,Sudeste,2018-01-22 13:47:51
+1522,Cliente Vendas Prod. 1522,3.01.01,Vendas de Produtos,PA,PA_belem,-1.4182009,-48.4695107,Sudeste,2018-01-22 14:00:17
+1523,Cliente Vendas Prod. 1523,3.01.01,Vendas de Produtos,SC,SC_braco do norte,-28.2738931,-49.1651865,Sul,2018-01-22 14:15:42
+1525,Cliente Vendas Prod. 1525,3.01.01,Vendas de Produtos,BA,BA_salvador,-12.9626546,-38.461683,Sudeste,2018-01-23 03:37:39
+1526,Cliente Vendas Prod. 1526,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,Sudeste,2018-01-23 03:37:57
+1527,Cliente Vendas Prod. 1527,3.01.01,Vendas de Produtos,SC,SC_cacador,-26.7791611,-51.0111499,Sudeste,2018-01-23 03:38:52
+1529,Cliente Vendas Prod. 1529,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,Sudeste,2018-01-23 03:52:30
+1532,Cliente Vendas Prod. 1532,3.01.01,Vendas de Produtos,SP,SP_sao carlos,-22.0116867,-47.8931046,Sudeste,2018-01-23 08:15:52
+1533,Cliente Vendas Prod. 1533,3.01.01,Vendas de Produtos,RJ,RJ_rio de janeiro,-22.9149109,-43.3128773,Sudeste,2018-01-23 15:12:52
+1534,Cliente Vendas Prod. 1534,3.01.01,Vendas de Produtos,RJ,RJ_rio de janeiro,-22.9149109,-43.3128773,Sudeste,2018-01-23 18:55:38
+1535,Cliente Vendas Prod. 1535,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,Sudeste,2018-01-23 20:39:24
+1536,Cliente Vendas Prod. 1536,3.01.01,Vendas de Produtos,PR,PR_arapongas,-23.4088833,-51.4347632,Sudeste,2018-01-24 02:36:32
+1538,Cliente Vendas Prod. 1538,3.01.01,Vendas de Produtos,SP,SP_itapevi,-23.5486294,-46.9461231,Sudeste,2018-01-24 02:38:27
+1539,Cliente Vendas Prod. 1539,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,Sudeste,2018-01-25 02:58:47
+1540,Cliente Vendas Prod. 1540,3.01.01,Vendas de Produtos,MG,MG_januaria,-15.4839305,-44.3815407,Sudeste,2018-01-25 09:53:01
+1543,Cliente Vendas Prod. 1543,3.01.01,Vendas de Produtos,DF,DF_brasilia,-15.8110727,-47.9717049,Sudeste,2018-01-25 13:38:59
+1544,Cliente Vendas Prod. 1544,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,Sudeste,2018-01-25 21:57:26
+1545,Cliente Vendas Prod. 1545,3.01.01,Vendas de Produtos,RJ,RJ_nova iguacu,-22.7428488,-43.4723199,Sudeste,2018-01-26 00:32:10
+1546,Cliente Vendas Prod. 1546,3.01.01,Vendas de Produtos,MG,MG_bandeira,-15.8857977,-40.562283,Centro-Oeste,2018-01-26 01:19:23
+1547,Cliente Vendas Prod. 1547,3.01.01,Vendas de Produtos,RJ,RJ_rio de janeiro,-22.9149109,-43.3128773,Sudeste,2018-01-26 17:04:00
+1548,Cliente Vendas Prod. 1548,3.01.01,Vendas de Produtos,BA,BA_formosa do rio preto,-11.0170332,-45.2582502,Sul,2018-01-26 20:13:30
+1553,Cliente Vendas Prod. 1553,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,Sudeste,2018-01-26 20:58:26
+1554,Cliente Vendas Prod. 1554,3.01.01,Vendas de Produtos,SP,SP_diadema,-23.6897684,-46.6117408,Sudeste,2018-01-26 21:58:36
+1555,Cliente Vendas Prod. 1555,3.01.01,Vendas de Produtos,SP,SP_peruibe,-24.3032425,-46.9871832,Sudeste,2018-01-27 00:18:24
+1562,Cliente Vendas Prod. 1562,3.01.01,Vendas de Produtos,SP,SP_santa isabel,-23.3183228,-46.226107,Nordeste,2018-01-27 13:17:31
+1563,Cliente Vendas Prod. 1563,3.01.01,Vendas de Produtos,MG,MG_belo horizonte,-19.9087721,-43.9575494,Sudeste,2018-01-27 19:19:42
+1564,Cliente Vendas Prod. 1564,3.01.01,Vendas de Produtos,SP,SP_piracicaba,-22.7258411,-47.6466219,Nordeste,2018-01-28 16:38:57
+1565,Cliente Vendas Prod. 1565,3.01.01,Vendas de Produtos,RS,RS_porto alegre,-30.0492523,-51.1885815,Sudeste,2018-01-28 19:33:26
+1566,Cliente Vendas Prod. 1566,3.01.01,Vendas de Produtos,MA,MA_sao luis,-2.5305847,-44.2542139,Sudeste,2018-01-29 08:39:25
+1567,Cliente Vendas Prod. 1567,3.01.01,Vendas de Produtos,RJ,RJ_nova iguacu,-22.7428488,-43.4723199,Sudeste,2018-01-29 21:15:34
+1569,Cliente Vendas Prod. 1569,3.01.01,Vendas de Produtos,MG,MG_dom silverio,-20.1648605,-42.9686734,Sudeste,2018-01-29 22:30:15
+1570,Cliente Vendas Prod. 1570,3.01.01,Vendas de Produtos,MG,MG_santa rita do sapucai,-22.2475053,-45.7075396,Sudeste,2018-01-30 03:47:31
+1572,Cliente Vendas Prod. 1572,3.01.01,Vendas de Produtos,PR,PR_figueira,-23.8500462,-50.4030159,Sudeste,2018-01-30 05:31:37
+1574,Cliente Vendas Prod. 1574,3.01.01,Vendas de Produtos,RJ,RJ_rio de janeiro,-22.9149109,-43.3128773,Sudeste,2018-01-30 05:31:54
+1577,Cliente Vendas Prod. 1577,3.01.01,Vendas de Produtos,RS,RS_pelotas,-31.7512688,-52.3373624,Sudeste,2018-01-30 19:54:04
+1578,Cliente Vendas Prod. 1578,3.01.01,Vendas de Produtos,PR,PR_curitiba,-25.453054,-49.2749963,Sul,2018-01-31 15:30:30
+1584,Cliente Vendas Prod. 1584,3.01.01,Vendas de Produtos,SP,SP_barueri,-23.5059127,-46.8693586,Sudeste,2018-01-31 17:54:04
+1585,Cliente Vendas Prod. 1585,3.01.01,Vendas de Produtos,BA,BA_cicero dantas,-10.5930167,-38.3851865,Sul,2018-02-01 19:37:42
+1596,Cliente Vendas Prod. 1596,3.01.01,Vendas de Produtos,RJ,RJ_rio de janeiro,-22.9149109,-43.3128773,Sudeste,2018-02-03 13:11:58
+1597,Cliente Vendas Prod. 1597,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,Sudeste,2018-02-03 15:50:17
+1598,Cliente Vendas Prod. 1598,3.01.01,Vendas de Produtos,RJ,RJ_rio de janeiro,-22.9149109,-43.3128773,Sudeste,2018-02-04 15:10:27
+1600,Cliente Vendas Prod. 1600,3.01.01,Vendas de Produtos,PB,PB_mamanguape,-6.8371686,-35.1268872,Sul,2018-02-04 22:10:00
+1604,Cliente Vendas Prod. 1604,3.01.01,Vendas de Produtos,RJ,RJ_mage,-22.6380462,-43.1260713,Centro-Oeste,2018-02-04 22:29:19
+1605,Cliente Vendas Prod. 1605,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,Sudeste,2018-02-05 11:30:05
+1606,Cliente Vendas Prod. 1606,3.01.01,Vendas de Produtos,SC,SC_massaranduba,-26.6102169,-49.002534,Centro-Oeste,2018-02-05 12:29:51
+1609,Cliente Vendas Prod. 1609,3.01.01,Vendas de Produtos,SP,SP_sao carlos,-22.0116867,-47.8931046,Nordeste,2018-02-05 17:50:00
+1611,Cliente Vendas Prod. 1611,3.01.01,Vendas de Produtos,SP,SP_buritama,-21.0672875,-50.1444019,Sudeste,2018-02-05 19:30:53
+1612,Cliente Vendas Prod. 1612,3.01.01,Vendas de Produtos,SP,SP_piracicaba,-22.7258411,-47.6466219,Sudeste,2018-02-05 22:55:31
+1613,Cliente Vendas Prod. 1613,3.01.01,Vendas de Produtos,RS,RS_tapejara,-28.0689587,-52.012068,Sudeste,2018-02-06 04:33:00
+1614,Cliente Vendas Prod. 1614,3.01.01,Vendas de Produtos,CE,CE_senador pompeu,-5.5878772,-39.3747409,Sudeste,2018-02-06 04:33:11
+1615,Cliente Vendas Prod. 1615,3.01.01,Vendas de Produtos,SP,SP_guaratingueta,-22.7999945,-45.1935525,Sudeste,2018-02-06 05:31:55
+1616,Cliente Vendas Prod. 1616,3.01.01,Vendas de Produtos,RJ,RJ_niteroi,-22.8939271,-43.0863353,Nordeste,2018-02-06 06:30:20
+1617,Cliente Vendas Prod. 1617,3.01.01,Vendas de Produtos,RJ,RJ_rio de janeiro,-22.9149109,-43.3128773,Sudeste,2018-02-06 10:30:12
+1618,Cliente Vendas Prod. 1618,3.01.01,Vendas de Produtos,GO,GO_rio verde,-17.7980276,-50.9218919,Sudeste,2018-02-06 12:13:02
+1620,Cliente Vendas Prod. 1620,3.01.01,Vendas de Produtos,BA,BA_salvador,-12.9626546,-38.461683,Sudeste,2018-02-06 14:30:37
+1621,Cliente Vendas Prod. 1621,3.01.01,Vendas de Produtos,SP,SP_limeira,-22.573479,-47.4084792,Sudeste,2018-02-06 16:11:35
+1624,Cliente Vendas Prod. 1624,3.01.01,Vendas de Produtos,RJ,RJ_rio de janeiro,-22.9149109,-43.3128773,Sul,2018-02-06 16:11:49
+1625,Cliente Vendas Prod. 1625,3.01.01,Vendas de Produtos,RJ,RJ_rio de janeiro,-22.9149109,-43.3128773,Sudeste,2018-02-06 17:32:30
+1626,Cliente Vendas Prod. 1626,3.01.01,Vendas de Produtos,RS,RS_tenente portela,-27.371053,-53.7585857,Sudeste,2018-02-06 20:50:39
+1627,Cliente Vendas Prod. 1627,3.01.01,Vendas de Produtos,MT,MT_colider,-10.8074368,-55.4575001,Centro-Oeste,2018-02-07 19:15:27
+1628,Cliente Vendas Prod. 1628,3.01.01,Vendas de Produtos,SP,SP_sao caetano do sul,-23.6267476,-46.5650578,Norte,2018-02-24 08:55:53
+1629,Cliente Vendas Prod. 1629,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,Sudeste,2018-02-24 09:47:40
+1630,Cliente Vendas Prod. 1630,3.01.01,Vendas de Produtos,RJ,RJ_rio de janeiro,-22.9149109,-43.3128773,Sudeste,2018-02-24 18:07:25
+1631,Cliente Vendas Prod. 1631,3.01.01,Vendas de Produtos,RJ,RJ_rio de janeiro,-22.9149109,-43.3128773,Sudeste,2018-02-24 20:47:30
+1632,Cliente Vendas Prod. 1632,3.01.01,Vendas de Produtos,BA,BA_santa maria da vitoria,-13.3885118,-44.2003306,Nordeste,2018-02-24 21:30:29
+1633,Cliente Vendas Prod. 1633,3.01.01,Vendas de Produtos,RJ,RJ_macae,-22.3809421,-41.7888662,Sudeste,2018-02-24 22:00:22
+1634,Cliente Vendas Prod. 1634,3.01.01,Vendas de Produtos,PB,PB_joao pessoa,-7.132032,-34.851423,Centro-Oeste,2018-02-25 12:49:08
+1635,Cliente Vendas Prod. 1635,3.01.01,Vendas de Produtos,SP,SP_assis,-22.6584971,-50.4182822,Sudeste,2018-02-25 15:35:24
+1636,Cliente Vendas Prod. 1636,3.01.01,Vendas de Produtos,BA,BA_santo antonio de jesus,-12.9710068,-39.2479882,Sudeste,2018-02-25 16:08:08
+1638,Cliente Vendas Prod. 1638,3.01.01,Vendas de Produtos,RJ,RJ_rio de janeiro,-22.9149109,-43.3128773,Nordeste,2018-02-25 20:27:43
+1639,Cliente Vendas Prod. 1639,3.01.01,Vendas de Produtos,SP,SP_mongagua,-24.1114669,-46.6646109,Centro-Oeste,2018-02-26 16:15:40
+1640,Cliente Vendas Prod. 1640,3.01.01,Vendas de Produtos,MT,MT_cuiaba,-15.59882,-56.0722244,Sudeste,2018-02-26 18:00:26
+1641,Cliente Vendas Prod. 1641,3.01.01,Vendas de Produtos,SP,SP_tambau,-21.7026783,-47.2766225,Sudeste,2018-02-26 22:08:44
+1642,Cliente Vendas Prod. 1642,3.01.01,Vendas de Produtos,BA,BA_nucleo residencial pilar,,,Sudeste,2018-02-27 04:31:06
+1643,Cliente Vendas Prod. 1643,3.01.01,Vendas de Produtos,MG,MG_juiz de fora,-21.7541042,-43.3626371,Sudeste,2018-02-27 04:31:24
+1644,Cliente Vendas Prod. 1644,3.01.01,Vendas de Produtos,PR,PR_londrina,-23.3144159,-51.1654961,Sudeste,2018-02-27 04:41:14
+1645,Cliente Vendas Prod. 1645,3.01.01,Vendas de Produtos,SP,SP_diadema,-23.6897684,-46.6117408,Sudeste,2018-02-27 10:50:26
+1646,Cliente Vendas Prod. 1646,3.01.01,Vendas de Produtos,BA,BA_pojuca,-12.4254499,-38.3273645,Sul,2018-02-27 14:15:37
+1647,Cliente Vendas Prod. 1647,3.01.01,Vendas de Produtos,RJ,RJ_rio de janeiro,-22.9149109,-43.3128773,Sudeste,2018-02-27 20:30:25
+1653,Cliente Vendas Prod. 1653,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,Nordeste,2018-02-28 15:55:27
+1655,Cliente Vendas Prod. 1655,3.01.01,Vendas de Produtos,RJ,RJ_rio de janeiro,-22.9149109,-43.3128773,Sudeste,2018-02-28 16:29:54
+1656,Cliente Vendas Prod. 1656,3.01.01,Vendas de Produtos,SP,SP_santa barbara d'oeste,-22.7490044,-47.3943642,Sudeste,2018-03-01 02:50:46
+1662,Cliente Vendas Prod. 1662,3.01.01,Vendas de Produtos,RJ,RJ_rio de janeiro,-22.9149109,-43.3128773,Sul,2018-03-01 02:55:23
+1663,Cliente Vendas Prod. 1663,3.01.01,Vendas de Produtos,SP,SP_santa barbara d'oeste,-22.7490044,-47.3943642,Sudeste,2018-03-01 02:55:32
+1666,Cliente Vendas Prod. 1666,3.01.01,Vendas de Produtos,PA,PA_jacunda,-4.4509604,-49.1154028,Sudeste,2018-03-01 09:33:15
+1667,Cliente Vendas Prod. 1667,3.01.01,Vendas de Produtos,SP,SP_lins,-21.6760788,-49.7496728,Sudeste,2018-03-01 10:49:47
+1668,Cliente Vendas Prod. 1668,3.01.01,Vendas de Produtos,MG,MG_uberaba,-19.7528239,-47.9358374,Centro-Oeste,2018-03-01 10:50:39
+1669,Cliente Vendas Prod. 1669,3.01.01,Vendas de Produtos,SP,SP_sales,-21.3422112,-49.4998876,Sudeste,2018-03-01 15:15:43
+1670,Cliente Vendas Prod. 1670,3.01.01,Vendas de Produtos,PR,PR_loanda,-22.9293838,-53.1358726,Sul,2018-03-01 18:50:33
+1672,Cliente Vendas Prod. 1672,3.01.01,Vendas de Produtos,RJ,RJ_rio de janeiro,-22.9149109,-43.3128773,Sudeste,2018-03-02 02:10:54
+1673,Cliente Vendas Prod. 1673,3.01.01,Vendas de Produtos,RJ,RJ_angra dos reis,-22.9950533,-44.353285,Sudeste,2018-03-02 02:11:00
+1678,Cliente Vendas Prod. 1678,3.01.01,Vendas de Produtos,SP,SP_ribeirao pires,-23.7041589,-46.4074409,Sul,2018-03-02 02:16:42
+1679,Cliente Vendas Prod. 1679,3.01.01,Vendas de Produtos,SP,SP_sao bernardo do campo,-23.7076263,-46.5638687,Nordeste,2018-03-02 16:31:39
+1681,Cliente Vendas Prod. 1681,3.01.01,Vendas de Produtos,RJ,RJ_nova iguacu,-22.7428488,-43.4723199,Sudeste,2018-03-03 00:09:28
+1683,Cliente Vendas Prod. 1683,3.01.01,Vendas de Produtos,SC,SC_blumenau,-26.8995451,-49.0885927,Nordeste,2018-03-03 02:49:29
+1684,Cliente Vendas Prod. 1684,3.01.01,Vendas de Produtos,RJ,RJ_rio de janeiro,-22.9149109,-43.3128773,Sudeste,2018-03-03 02:49:34
+1688,Cliente Vendas Prod. 1688,3.01.01,Vendas de Produtos,SP,SP_aracatuba,-21.2055558,-50.4431937,Nordeste,2018-03-03 02:50:37
+1689,Cliente Vendas Prod. 1689,3.01.01,Vendas de Produtos,MA,MA_sao luis,-2.5305847,-44.2542139,Sudeste,2018-03-03 09:10:28
+1690,Cliente Vendas Prod. 1690,3.01.01,Vendas de Produtos,GO,GO_sao luis de montes belos,-16.5125235,-50.3749714,Sudeste,2018-03-03 13:48:45
+1691,Cliente Vendas Prod. 1691,3.01.01,Vendas de Produtos,RJ,RJ_rio de janeiro,-22.9149109,-43.3128773,Sudeste,2018-03-03 16:48:37
+1693,Cliente Vendas Prod. 1693,3.01.01,Vendas de Produtos,MG,MG_ipatinga,-19.4697787,-42.5532918,Sudeste,2018-03-03 23:55:31
+1694,Cliente Vendas Prod. 1694,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,Sudeste,2018-03-04 02:30:49
+1695,Cliente Vendas Prod. 1695,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,Sudeste,2018-03-04 13:40:28
+1696,Cliente Vendas Prod. 1696,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,Sudeste,2018-03-04 18:55:33
+1697,Cliente Vendas Prod. 1697,3.01.01,Vendas de Produtos,SP,SP_monte aprazivel,-20.7703087,-49.7113432,Sul,2018-03-04 19:09:07
+1699,Cliente Vendas Prod. 1699,3.01.01,Vendas de Produtos,MG,MG_belo horizonte,-19.9087721,-43.9575494,Sudeste,2018-03-04 19:28:27
+1700,Cliente Vendas Prod. 1700,3.01.01,Vendas de Produtos,CE,CE_fortaleza,-3.7631079,-38.5324297,Norte,2018-03-05 04:15:31
+1701,Cliente Vendas Prod. 1701,3.01.01,Vendas de Produtos,RJ,RJ_rio de janeiro,-22.9149109,-43.3128773,Sudeste,2018-03-05 12:50:42
+1703,Cliente Vendas Prod. 1703,3.01.01,Vendas de Produtos,RS,RS_jaguarao,-32.5611764,-53.3781683,Sudeste,2018-03-05 13:15:44
+1704,Cliente Vendas Prod. 1704,3.01.01,Vendas de Produtos,MG,MG_juiz de fora,-21.7541042,-43.3626371,Sudeste,2018-03-05 14:55:43
+1705,Cliente Vendas Prod. 1705,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,Sudeste,2018-03-05 16:40:25
+1706,Cliente Vendas Prod. 1706,3.01.01,Vendas de Produtos,RJ,RJ_rio de janeiro,-22.9149109,-43.3128773,Sudeste,2018-03-05 19:35:28
+1707,Cliente Vendas Prod. 1707,3.01.01,Vendas de Produtos,SC,SC_florianopolis,-27.5768356,-48.5179518,Sudeste,2018-03-05 20:30:54
+1708,Cliente Vendas Prod. 1708,3.01.01,Vendas de Produtos,RJ,RJ_rio de janeiro,-22.9149109,-43.3128773,Nordeste,2018-03-06 03:49:02
+1709,Cliente Vendas Prod. 1709,3.01.01,Vendas de Produtos,MG,MG_itajuba,-22.4275448,-45.4566067,Sudeste,2018-03-06 03:51:01
+1710,Cliente Vendas Prod. 1710,3.01.01,Vendas de Produtos,MG,MG_belo horizonte,-19.9087721,-43.9575494,Sudeste,2018-03-06 03:55:45
+1711,Cliente Vendas Prod. 1711,3.01.01,Vendas de Produtos,SP,SP_vera cruz,-22.2221739,-49.8226743,Sudeste,2018-03-06 07:30:30
+1712,Cliente Vendas Prod. 1712,3.01.01,Vendas de Produtos,SP,SP_fartura,-23.3886508,-49.5106507,Sudeste,2018-03-06 10:50:32
+1713,Cliente Vendas Prod. 1713,3.01.01,Vendas de Produtos,SP,SP_atibaia,-23.1231345,-46.560482,Sudeste,2018-03-06 20:10:49
+1715,Cliente Vendas Prod. 1715,3.01.01,Vendas de Produtos,GO,GO_niquelandia,-14.473356,-48.4578507,Sudeste,2018-03-07 02:15:28
+1716,Cliente Vendas Prod. 1716,3.01.01,Vendas de Produtos,RJ,RJ_arraial do cabo,-22.9635463,-42.0507217,Sudeste,2018-03-07 02:15:56
+1722,Cliente Vendas Prod. 1722,3.01.01,Vendas de Produtos,SP,SP_campinas,-22.9008682,-47.0685368,Nordeste,2018-03-07 02:49:01
+1723,Cliente Vendas Prod. 1723,3.01.01,Vendas de Produtos,RJ,RJ_volta redonda,-22.5086692,-44.0971715,Sudeste,2018-03-07 11:10:11
+1724,Cliente Vendas Prod. 1724,3.01.01,Vendas de Produtos,SP,SP_campinas,-22.9008682,-47.0685368,Sudeste,2018-03-07 14:29:49
+1725,Cliente Vendas Prod. 1725,3.01.01,Vendas de Produtos,SP,SP_catigua,-21.0527516,-49.0599237,Sudeste,2018-03-07 21:29:32
+1726,Cliente Vendas Prod. 1726,3.01.01,Vendas de Produtos,PA,PA_altamira,-3.2066377,-52.2160748,Sudeste,2018-03-08 02:15:31
+1727,Cliente Vendas Prod. 1727,3.01.01,Vendas de Produtos,SP,SP_mogi mirim,-22.4330092,-46.9611047,Sudeste,2018-03-08 02:29:28
+1729,Cliente Vendas Prod. 1729,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,Sudeste,2018-03-08 02:29:33
+1734,Cliente Vendas Prod. 1734,3.01.01,Vendas de Produtos,MG,MG_varginha,-21.5613271,-45.4365187,Sudeste,2018-03-08 02:35:37
+1735,Cliente Vendas Prod. 1735,3.01.01,Vendas de Produtos,MG,MG_extrema,-22.8554782,-46.3195013,Sudeste,2018-03-08 02:35:41
+1736,Cliente Vendas Prod. 1736,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,Nordeste,2018-03-08 18:55:56
+1737,Cliente Vendas Prod. 1737,3.01.01,Vendas de Produtos,SP,SP_bauru,-22.3266828,-49.0666825,Sudeste,2018-03-09 02:10:27
+1738,Cliente Vendas Prod. 1738,3.01.01,Vendas de Produtos,RJ,RJ_rio de janeiro,-22.9149109,-43.3128773,Sudeste,2018-03-09 02:30:55
+1739,Cliente Vendas Prod. 1739,3.01.01,Vendas de Produtos,SP,SP_taboao da serra,-23.6207381,-46.7801555,Sudeste,2018-03-09 02:31:25
+1744,Cliente Vendas Prod. 1744,3.01.01,Vendas de Produtos,DF,DF_brasilia,-15.8110727,-47.9717049,Sudeste,2018-03-09 12:40:32
+1750,Cliente Vendas Prod. 1750,3.01.01,Vendas de Produtos,SP,SP_lagoinha,-23.0887286,-45.1906535,Sudeste,2018-03-10 00:00:22
+1751,Cliente Vendas Prod. 1751,3.01.01,Vendas de Produtos,SP,SP_presidente prudente,-22.1214917,-51.4046719,Sudeste,2018-03-10 03:49:27
+1753,Cliente Vendas Prod. 1753,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,Sudeste,2018-03-10 03:49:28
+1754,Cliente Vendas Prod. 1754,3.01.01,Vendas de Produtos,SP,SP_guarulhos,-23.4464035,-46.4987685,,2018-03-10 04:31:41
+1755,Cliente Vendas Prod. 1755,3.01.01,Vendas de Produtos,SP,SP_marilia,-22.2094453,-49.9476115,,2018-03-10 09:28:02
+1756,Cliente Vendas Prod. 1756,3.01.01,Vendas de Produtos,RJ,RJ_rio de janeiro,-22.9149109,-43.3128773,,2018-03-10 20:47:39
+1757,Cliente Vendas Prod. 1757,3.01.01,Vendas de Produtos,MG,MG_belo horizonte,-19.9087721,-43.9575494,,2018-03-10 21:08:12
+1758,Cliente Vendas Prod. 1758,3.01.01,Vendas de Produtos,PA,PA_belem,-1.4182009,-48.4695107,,2018-03-11 11:10:33
+1759,Cliente Vendas Prod. 1759,3.01.01,Vendas de Produtos,MG,MG_uberaba,-19.7528239,-47.9358374,,2018-03-11 22:28:12
+1761,Cliente Vendas Prod. 1761,3.01.01,Vendas de Produtos,RJ,RJ_duque de caxias,-22.714738,-43.2894301,,2018-03-12 03:08:31
+1762,Cliente Vendas Prod. 1762,3.01.01,Vendas de Produtos,PA,PA_benevides,-1.3504593,-48.2555328,,2018-03-12 14:08:39
+1763,Cliente Vendas Prod. 1763,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,,2018-03-13 04:15:50
+1764,Cliente Vendas Prod. 1764,3.01.01,Vendas de Produtos,MG,MG_paraopeba,-19.2785791,-44.4008855,,2018-03-13 04:48:01
+1765,Cliente Vendas Prod. 1765,3.01.01,Vendas de Produtos,CE,CE_fortaleza,-3.7631079,-38.5324297,,2018-03-13 04:48:01
+1766,Cliente Vendas Prod. 1766,3.01.01,Vendas de Produtos,SP,SP_guaruja,-23.9789029,-46.2604055,,2018-03-13 04:48:01
+1769,Cliente Vendas Prod. 1769,3.01.01,Vendas de Produtos,SP,SP_mogi das cruzes,-23.5304016,-46.193888,,2018-03-13 17:29:19
+1770,Cliente Vendas Prod. 1770,3.01.01,Vendas de Produtos,MG,MG_alfenas,-21.4239702,-45.9513635,,2018-03-13 20:49:24
+1771,Cliente Vendas Prod. 1771,3.01.01,Vendas de Produtos,MG,MG_caxambu,-21.9808048,-44.9316957,,2018-03-14 20:08:19
+1772,Cliente Vendas Prod. 1772,3.01.01,Vendas de Produtos,SP,SP_botucatu,-22.8821125,-48.4470122,,2018-03-14 21:30:33
+1773,Cliente Vendas Prod. 1773,3.01.01,Vendas de Produtos,SP,SP_sorocaba,-23.4853462,-47.46445,,2018-03-14 22:09:13
+1774,Cliente Vendas Prod. 1774,3.01.01,Vendas de Produtos,SP,SP_limeira,-22.573479,-47.4084792,,2018-03-15 03:10:25
+1775,Cliente Vendas Prod. 1775,3.01.01,Vendas de Produtos,MG,MG_belo horizonte,-19.9087721,-43.9575494,,2018-03-15 07:55:24
+1776,Cliente Vendas Prod. 1776,3.01.01,Vendas de Produtos,SP,SP_santa fe do sul,-20.223125,-50.8998633,,2018-03-15 12:15:43
+1777,Cliente Vendas Prod. 1777,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,,2018-03-15 12:55:54
+1778,Cliente Vendas Prod. 1778,3.01.01,Vendas de Produtos,GO,GO_goianira,-16.5132833,-49.4209505,,2018-03-15 17:55:43
+1779,Cliente Vendas Prod. 1779,3.01.01,Vendas de Produtos,SP,SP_maua,-23.6699938,-46.4489087,,2018-03-16 01:55:25
+1780,Cliente Vendas Prod. 1780,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,,2018-03-16 03:50:06
+1781,Cliente Vendas Prod. 1781,3.01.01,Vendas de Produtos,SP,SP_bofete,-23.1106023,-48.2624704,,2018-03-16 03:50:14
+1782,Cliente Vendas Prod. 1782,3.01.01,Vendas de Produtos,SP,SP_campinas,-22.9008682,-47.0685368,,2018-03-16 14:11:00
+1783,Cliente Vendas Prod. 1783,3.01.01,Vendas de Produtos,BA,BA_conceicao do coite,-11.5721209,-39.2778374,,2018-03-16 16:29:28
+1784,Cliente Vendas Prod. 1784,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,,2018-03-16 20:28:10
+1785,Cliente Vendas Prod. 1785,3.01.01,Vendas de Produtos,RS,RS_lajeado,-29.4556791,-51.9703754,,2018-03-16 22:35:33
+1789,Cliente Vendas Prod. 1789,3.01.01,Vendas de Produtos,CE,CE_fortaleza,-3.7631079,-38.5324297,,2018-03-17 02:40:36
+1792,Cliente Vendas Prod. 1792,3.01.01,Vendas de Produtos,PR,PR_general carneiro,-26.4211956,-51.3150163,,2018-03-17 10:09:01
+1793,Cliente Vendas Prod. 1793,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,,2018-03-17 13:28:44
+1794,Cliente Vendas Prod. 1794,3.01.01,Vendas de Produtos,SP,SP_cosmopolis,-22.6398317,-47.1887362,,2018-03-17 14:10:24
+1795,Cliente Vendas Prod. 1795,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,,2018-03-17 16:10:29
+1796,Cliente Vendas Prod. 1796,3.01.01,Vendas de Produtos,DF,DF_brasilia,-15.8110727,-47.9717049,,2018-03-17 19:51:02
+1797,Cliente Vendas Prod. 1797,3.01.01,Vendas de Produtos,SP,SP_santo andre,-23.6600311,-46.5219659,,2018-03-17 20:08:03
+1798,Cliente Vendas Prod. 1798,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,,2018-03-18 14:35:25
+1799,Cliente Vendas Prod. 1799,3.01.01,Vendas de Produtos,RS,RS_gravatai,-29.9324121,-51.0184607,,2018-03-18 23:50:27
+1800,Cliente Vendas Prod. 1800,3.01.01,Vendas de Produtos,SP,SP_piracicaba,-22.7258411,-47.6466219,,2018-03-19 07:50:43
+1801,Cliente Vendas Prod. 1801,3.01.01,Vendas de Produtos,SP,SP_hortolandia,-22.8837276,-47.2048364,,2018-03-19 09:35:34
+1802,Cliente Vendas Prod. 1802,3.01.01,Vendas de Produtos,SP,SP_barueri,-23.5059127,-46.8693586,,2018-03-19 14:49:45
+1803,Cliente Vendas Prod. 1803,3.01.01,Vendas de Produtos,PR,PR_pato branco,-26.2292653,-52.6752472,,2018-03-20 03:08:33
+1804,Cliente Vendas Prod. 1804,3.01.01,Vendas de Produtos,SP,SP_indaiatuba,-23.0958231,-47.2147898,,2018-03-20 03:28:16
+1805,Cliente Vendas Prod. 1805,3.01.01,Vendas de Produtos,SP,SP_itu,-23.2860224,-47.3032809,,2018-03-20 03:48:59
+1806,Cliente Vendas Prod. 1806,3.01.01,Vendas de Produtos,SC,SC_xanxere,-26.8761729,-52.4034192,,2018-03-20 15:55:57
+1807,Cliente Vendas Prod. 1807,3.01.01,Vendas de Produtos,MG,MG_matias barbosa,-21.8694853,-43.3197712,,2018-03-20 20:50:39
+1808,Cliente Vendas Prod. 1808,3.01.01,Vendas de Produtos,MS,MS_corumba,-19.0115483,-57.6503006,,2018-03-21 02:49:08
+1809,Cliente Vendas Prod. 1809,3.01.01,Vendas de Produtos,PR,PR_curitiba,-25.453054,-49.2749963,,2018-03-21 11:35:31
+1810,Cliente Vendas Prod. 1810,3.01.01,Vendas de Produtos,SP,SP_campinas,-22.9008682,-47.0685368,,2018-03-21 15:48:40
+1811,Cliente Vendas Prod. 1811,3.01.01,Vendas de Produtos,SP,SP_assis,-22.6584971,-50.4182822,,2018-03-21 21:15:27
+1812,Cliente Vendas Prod. 1812,3.01.01,Vendas de Produtos,MG,MG_tres marias,-18.2081359,-45.2259029,,2018-03-21 23:10:30
+1813,Cliente Vendas Prod. 1813,3.01.01,Vendas de Produtos,MA,MA_codo,-4.4622865,-43.8916074,,2018-03-22 02:51:00
+1817,Cliente Vendas Prod. 1817,3.01.01,Vendas de Produtos,RJ,RJ_armacao dos buzios,-22.7664856,-41.9094476,,2018-03-22 11:15:35
+1819,Cliente Vendas Prod. 1819,3.01.01,Vendas de Produtos,SP,SP_santo andre,-23.6600311,-46.5219659,,2018-03-23 02:15:46
+1821,Cliente Vendas Prod. 1821,3.01.01,Vendas de Produtos,MG,MG_extrema,-22.8554782,-46.3195013,,2018-03-23 17:15:26
+1823,Cliente Vendas Prod. 1823,3.01.01,Vendas de Produtos,MG,MG_gouveia,-18.4649757,-43.7511801,,2018-03-23 17:55:26
+1825,Cliente Vendas Prod. 1825,3.01.01,Vendas de Produtos,SP,SP_sumare,-22.8203749,-47.2318262,,2018-03-24 02:11:00
+1826,Cliente Vendas Prod. 1826,3.01.01,Vendas de Produtos,SP,SP_sao caetano do sul,-23.6267476,-46.5650578,,2018-03-24 12:08:19
+1827,Cliente Vendas Prod. 1827,3.01.01,Vendas de Produtos,RJ,RJ_rio de janeiro,-22.9149109,-43.3128773,,2018-03-24 13:15:31
+1829,Cliente Vendas Prod. 1829,3.01.01,Vendas de Produtos,RN,RN_santa cruz,-6.2277922,-36.0210458,,2018-03-24 17:27:48
+1830,Cliente Vendas Prod. 1830,3.01.01,Vendas de Produtos,MG,MG_taiobeiras,-15.8122153,-42.2270953,,2018-03-24 18:30:36
+1831,Cliente Vendas Prod. 1831,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,,2018-03-26 19:08:13
+1832,Cliente Vendas Prod. 1832,3.01.01,Vendas de Produtos,SP,SP_embu das artes,-23.6541841,-46.8225983,,2018-03-27 03:55:46
+1833,Cliente Vendas Prod. 1833,3.01.01,Vendas de Produtos,SP,SP_marilia,-22.2094453,-49.9476115,,2018-03-27 10:15:25
+1835,Cliente Vendas Prod. 1835,3.01.01,Vendas de Produtos,BA,BA_salvador,-12.9626546,-38.461683,,2018-03-27 15:51:53
+1836,Cliente Vendas Prod. 1836,3.01.01,Vendas de Produtos,SP,SP_santos,-23.9625232,-46.3278035,,2018-03-27 17:30:22
+1841,Cliente Vendas Prod. 1841,3.01.01,Vendas de Produtos,GO,GO_goiania,-16.6845866,-49.2744805,,2018-03-28 08:10:18
+1842,Cliente Vendas Prod. 1842,3.01.01,Vendas de Produtos,SP,SP_guarulhos,-23.4464035,-46.4987685,,2018-03-28 08:35:20
+1843,Cliente Vendas Prod. 1843,3.01.01,Vendas de Produtos,RJ,RJ_rio de janeiro,-22.9149109,-43.3128773,,2018-03-28 15:10:16
+1844,Cliente Vendas Prod. 1844,3.01.01,Vendas de Produtos,GO,GO_goiania,-16.6845866,-49.2744805,,2018-03-29 01:07:24
+1845,Cliente Vendas Prod. 1845,3.01.01,Vendas de Produtos,PR,PR_campo largo,-25.4595202,-49.5254419,,2018-03-29 14:35:08
+1847,Cliente Vendas Prod. 1847,3.01.01,Vendas de Produtos,SP,SP_sertaozinho,-21.1316153,-47.9931092,,2018-03-29 18:55:19
+1848,Cliente Vendas Prod. 1848,3.01.01,Vendas de Produtos,SP,SP_santo andre,-23.6600311,-46.5219659,,2018-03-29 19:27:54
+1849,Cliente Vendas Prod. 1849,3.01.01,Vendas de Produtos,SP,SP_votuporanga,-20.4183135,-49.9735416,,2018-03-29 22:26:46
+1851,Cliente Vendas Prod. 1851,3.01.01,Vendas de Produtos,RJ,RJ_sao goncalo,-22.82803,-43.0275321,,2018-03-30 00:09:22
+1852,Cliente Vendas Prod. 1852,3.01.01,Vendas de Produtos,MG,MG_passos,-20.7223837,-46.6086261,,2018-03-30 03:15:23
+1853,Cliente Vendas Prod. 1853,3.01.01,Vendas de Produtos,SP,SP_osasco,-23.5365609,-46.7882836,,2018-03-30 03:26:55
+1854,Cliente Vendas Prod. 1854,3.01.01,Vendas de Produtos,SP,SP_mogi das cruzes,-23.5304016,-46.193888,,2018-03-30 03:26:56
+1855,Cliente Vendas Prod. 1855,3.01.01,Vendas de Produtos,SP,SP_barueri,-23.5059127,-46.8693586,,2018-03-30 19:50:09
+1856,Cliente Vendas Prod. 1856,3.01.01,Vendas de Produtos,MG,MG_belo horizonte,-19.9087721,-43.9575494,,2018-03-30 23:15:11
+1857,Cliente Vendas Prod. 1857,3.01.01,Vendas de Produtos,SP,SP_santos,-23.9625232,-46.3278035,,2018-03-30 23:47:24
+1858,Cliente Vendas Prod. 1858,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,,2018-03-31 10:35:14
+1859,Cliente Vendas Prod. 1859,3.01.01,Vendas de Produtos,SP,SP_tambau,-21.7026783,-47.2766225,,2018-03-31 14:10:13
+1860,Cliente Vendas Prod. 1860,3.01.01,Vendas de Produtos,SP,SP_campinas,-22.9008682,-47.0685368,,2018-03-31 16:50:12
+1861,Cliente Vendas Prod. 1861,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,,2018-03-31 22:47:24
+1862,Cliente Vendas Prod. 1862,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,,2018-04-01 18:08:30
+1863,Cliente Vendas Prod. 1863,3.01.01,Vendas de Produtos,RJ,RJ_sao goncalo,-22.82803,-43.0275321,,2018-04-02 00:30:00
+1865,Cliente Vendas Prod. 1865,3.01.01,Vendas de Produtos,PR,PR_mandaguari,-23.5221166,-51.6776634,,2018-04-02 09:28:31
+1870,Cliente Vendas Prod. 1870,3.01.01,Vendas de Produtos,MG,MG_teofilo otoni,-17.8618608,-41.5063663,,2018-04-02 11:50:19
+1871,Cliente Vendas Prod. 1871,3.01.01,Vendas de Produtos,PR,PR_curitiba,-25.453054,-49.2749963,,2018-04-02 17:50:15
+1872,Cliente Vendas Prod. 1872,3.01.01,Vendas de Produtos,RJ,RJ_teresopolis,-22.4161652,-42.9660161,,2018-04-02 19:08:05
+1873,Cliente Vendas Prod. 1873,3.01.01,Vendas de Produtos,SP,SP_guaruja,-23.9789029,-46.2604055,,2018-04-02 23:35:13
+1874,Cliente Vendas Prod. 1874,3.01.01,Vendas de Produtos,SP,SP_franca,-20.5340568,-47.3984366,,2018-04-03 05:10:21
+1876,Cliente Vendas Prod. 1876,3.01.01,Vendas de Produtos,RJ,RJ_japeri,-22.6679618,-43.6255874,,2018-04-03 20:29:09
+1879,Cliente Vendas Prod. 1879,3.01.01,Vendas de Produtos,SP,SP_marilia,-22.2094453,-49.9476115,,2018-04-03 21:35:21
+1880,Cliente Vendas Prod. 1880,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,,2018-04-03 22:35:17
+1881,Cliente Vendas Prod. 1881,3.01.01,Vendas de Produtos,RN,RN_sao vicente,-6.2174866,-36.6827988,,2018-04-04 03:09:03
+1882,Cliente Vendas Prod. 1882,3.01.01,Vendas de Produtos,MG,MG_sete lagoas,-19.4569227,-44.2399369,,2018-04-04 03:15:25
+1883,Cliente Vendas Prod. 1883,3.01.01,Vendas de Produtos,RJ,RJ_rio de janeiro,-22.9149109,-43.3128773,,2018-04-04 03:29:29
+1886,Cliente Vendas Prod. 1886,3.01.01,Vendas de Produtos,SP,SP_carapicuiba,-23.5455786,-46.8387756,,2018-04-04 03:29:31
+1887,Cliente Vendas Prod. 1887,3.01.01,Vendas de Produtos,SP,SP_americo brasiliense,-21.7328333,-48.1099308,,2018-04-05 02:15:13
+1888,Cliente Vendas Prod. 1888,3.01.01,Vendas de Produtos,ES,ES_itarana,-19.877318,-40.8742054,,2018-04-05 02:15:14
+1891,Cliente Vendas Prod. 1891,3.01.01,Vendas de Produtos,RS,RS_dom pedrito,-30.9791233,-54.6699768,,2018-04-12 20:49:07
+1892,Cliente Vendas Prod. 1892,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,,2018-04-13 09:52:08
+1893,Cliente Vendas Prod. 1893,3.01.01,Vendas de Produtos,MG,MG_belo horizonte,-19.9087721,-43.9575494,,2018-04-13 20:52:45
+1894,Cliente Vendas Prod. 1894,3.01.01,Vendas de Produtos,SP,SP_ubatuba,-23.4529293,-45.0932194,,2018-04-14 02:30:57
+1895,Cliente Vendas Prod. 1895,3.01.01,Vendas de Produtos,RS,RS_porto alegre,-30.0492523,-51.1885815,,2018-04-14 02:51:55
+1896,Cliente Vendas Prod. 1896,3.01.01,Vendas de Produtos,SP,SP_paraguacu paulista,-22.421509,-50.5808861,,2018-04-14 12:15:13
+1897,Cliente Vendas Prod. 1897,3.01.01,Vendas de Produtos,PR,PR_marialva,-23.4839243,-51.7999091,,2018-04-15 00:30:59
+1898,Cliente Vendas Prod. 1898,3.01.01,Vendas de Produtos,GO,GO_mineiros,-17.556809,-52.5498116,,2018-04-15 11:55:18
+1899,Cliente Vendas Prod. 1899,3.01.01,Vendas de Produtos,BA,BA_iacu,-12.7716572,-40.2092373,,2018-04-15 18:31:06
+1900,Cliente Vendas Prod. 1900,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,,2018-04-15 20:51:52
+1901,Cliente Vendas Prod. 1901,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,,2018-04-15 22:51:55
+1902,Cliente Vendas Prod. 1902,3.01.01,Vendas de Produtos,SP,SP_sao joaquim da barra,-20.5860563,-47.8638919,,2018-04-16 21:35:29
+1908,Cliente Vendas Prod. 1908,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,,2018-04-16 22:10:20
+1909,Cliente Vendas Prod. 1909,3.01.01,Vendas de Produtos,MG,MG_serra bonita,-15.2142495,-46.8157387,,2018-04-17 05:50:18
+1910,Cliente Vendas Prod. 1910,3.01.01,Vendas de Produtos,PR,PR_paranagua,-25.532357,-48.5309679,,2018-04-17 05:50:27
+1911,Cliente Vendas Prod. 1911,3.01.01,Vendas de Produtos,RJ,RJ_rio de janeiro,-22.9149109,-43.3128773,,2018-04-17 06:11:36
+1916,Cliente Vendas Prod. 1916,3.01.01,Vendas de Produtos,PA,PA_braganca,-1.0594817,-46.7685463,,2018-04-17 07:55:12
+1918,Cliente Vendas Prod. 1918,3.01.01,Vendas de Produtos,SP,SP_campinas,-22.9008682,-47.0685368,,2018-04-17 10:31:15
+1919,Cliente Vendas Prod. 1919,3.01.01,Vendas de Produtos,SP,SP_sao jose do rio preto,-20.8096411,-49.379645,,2018-04-17 12:53:41
+1920,Cliente Vendas Prod. 1920,3.01.01,Vendas de Produtos,SP,SP_campinas,-22.9008682,-47.0685368,,2018-04-17 22:15:21
+1921,Cliente Vendas Prod. 1921,3.01.01,Vendas de Produtos,SP,SP_maracai,-22.6153815,-50.6680297,,2018-04-18 15:11:27
+1924,Cliente Vendas Prod. 1924,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,,2018-04-18 23:11:21
+1925,Cliente Vendas Prod. 1925,3.01.01,Vendas de Produtos,MA,MA_presidente dutra,-5.2931,-44.4914948,,2018-04-18 23:15:20
+1926,Cliente Vendas Prod. 1926,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,,2018-04-19 02:35:25
+1927,Cliente Vendas Prod. 1927,3.01.01,Vendas de Produtos,RJ,RJ_rio de janeiro,-22.9149109,-43.3128773,,2018-04-19 02:51:26
+1929,Cliente Vendas Prod. 1929,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,,2018-04-19 08:15:28
+1930,Cliente Vendas Prod. 1930,3.01.01,Vendas de Produtos,SC,SC_florianopolis,-27.5768356,-48.5179518,,2018-04-19 08:15:33
+1931,Cliente Vendas Prod. 1931,3.01.01,Vendas de Produtos,SP,SP_araras,-22.357746,-47.3755455,,2018-04-19 20:10:55
+1932,Cliente Vendas Prod. 1932,3.01.01,Vendas de Produtos,RJ,RJ_rio de janeiro,-22.9149109,-43.3128773,,2018-04-20 11:15:16
+1933,Cliente Vendas Prod. 1933,3.01.01,Vendas de Produtos,RJ,RJ_rio de janeiro,-22.9149109,-43.3128773,,2018-04-24 17:16:59
+1936,Cliente Vendas Prod. 1936,3.01.01,Vendas de Produtos,MG,MG_belo horizonte,-19.9087721,-43.9575494,,2018-04-24 17:31:05
+1937,Cliente Vendas Prod. 1937,3.01.01,Vendas de Produtos,SP,SP_braganca paulista,-22.9484204,-46.5413155,,2018-04-24 18:22:56
+1938,Cliente Vendas Prod. 1938,3.01.01,Vendas de Produtos,RJ,RJ_sao goncalo,-22.82803,-43.0275321,,2018-04-24 18:42:04
+1939,Cliente Vendas Prod. 1939,3.01.01,Vendas de Produtos,SP,SP_sumare,-22.8203749,-47.2318262,,2018-04-24 18:47:59
+1941,Cliente Vendas Prod. 1941,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,,2018-04-24 19:03:39
+1945,Cliente Vendas Prod. 1945,3.01.01,Vendas de Produtos,SP,SP_sao jose da bela vista,-20.5935875,-47.6412322,,2018-04-24 19:09:33
+1946,Cliente Vendas Prod. 1946,3.01.01,Vendas de Produtos,MS,MS_caarapo,-22.6327161,-54.8240659,,2018-04-24 19:19:27
+1947,Cliente Vendas Prod. 1947,3.01.01,Vendas de Produtos,SP,SP_santo andre,-23.6600311,-46.5219659,,2018-04-24 19:19:41
+1948,Cliente Vendas Prod. 1948,3.01.01,Vendas de Produtos,RS,RS_porto alegre,-30.0492523,-51.1885815,,2018-04-24 19:24:43
+1949,Cliente Vendas Prod. 1949,3.01.01,Vendas de Produtos,ES,ES_cachoeiro de itapemirim,-20.8464807,-41.1261853,,2018-04-24 20:35:23
+1950,Cliente Vendas Prod. 1950,3.01.01,Vendas de Produtos,MG,MG_poco fundo,-21.780147,-45.9673096,,2018-04-25 07:51:17
+1951,Cliente Vendas Prod. 1951,3.01.01,Vendas de Produtos,BA,BA_cicero dantas,-10.5930167,-38.3851865,,2018-04-25 17:12:23
+1955,Cliente Vendas Prod. 1955,3.01.01,Vendas de Produtos,SP,SP_campinas,-22.9008682,-47.0685368,,2018-04-25 23:30:24
+1957,Cliente Vendas Prod. 1957,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,,2018-04-26 18:49:35
+1958,Cliente Vendas Prod. 1958,3.01.01,Vendas de Produtos,ES,ES_colatina,-19.5298443,-40.6395611,,2018-04-27 03:10:32
+1959,Cliente Vendas Prod. 1959,3.01.01,Vendas de Produtos,RJ,RJ_itaperuna,-21.2031666,-41.8945673,,2018-04-27 15:10:09
+1960,Cliente Vendas Prod. 1960,3.01.01,Vendas de Produtos,RJ,RJ_rio de janeiro,-22.9149109,-43.3128773,,2018-04-27 16:11:21
+1961,Cliente Vendas Prod. 1961,3.01.01,Vendas de Produtos,RJ,RJ_angra dos reis,-22.9950533,-44.353285,,2018-04-28 03:15:32
+1962,Cliente Vendas Prod. 1962,3.01.01,Vendas de Produtos,PR,PR_colombo,-25.3514234,-49.1894319,,2018-04-28 15:51:30
+1968,Cliente Vendas Prod. 1968,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,,2018-04-29 10:34:49
+1969,Cliente Vendas Prod. 1969,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,,2018-04-29 15:10:26
+1970,Cliente Vendas Prod. 1970,3.01.01,Vendas de Produtos,BA,BA_salvador,-12.9626546,-38.461683,,2018-05-01 05:32:30
+1971,Cliente Vendas Prod. 1971,3.01.01,Vendas de Produtos,GO,GO_goiania,-16.6845866,-49.2744805,,2018-05-01 19:52:56
+1972,Cliente Vendas Prod. 1972,3.01.01,Vendas de Produtos,MT,MT_cuiaba,-15.59882,-56.0722244,,2018-05-02 18:18:34
+1973,Cliente Vendas Prod. 1973,3.01.01,Vendas de Produtos,SP,SP_praia grande,-24.0214237,-46.4618239,,2018-05-02 20:53:46
+1974,Cliente Vendas Prod. 1974,3.01.01,Vendas de Produtos,CE,CE_cruz,-2.9109124,-40.195581,,2018-05-03 12:54:44
+1975,Cliente Vendas Prod. 1975,3.01.01,Vendas de Produtos,TO,TO_palmas,-10.2152556,-48.3257513,,2018-05-03 15:35:09
+1976,Cliente Vendas Prod. 1976,3.01.01,Vendas de Produtos,ES,ES_vitoria,-20.2886227,-40.299007,,2018-05-04 16:13:33
+1977,Cliente Vendas Prod. 1977,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,,2018-05-07 20:35:28
+1979,Cliente Vendas Prod. 1979,3.01.01,Vendas de Produtos,MG,MG_betim,-19.9540662,-44.1669616,,2018-05-07 21:14:21
+1981,Cliente Vendas Prod. 1981,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,,2018-05-08 04:14:20
+1982,Cliente Vendas Prod. 1982,3.01.01,Vendas de Produtos,RJ,RJ_rio de janeiro,-22.9149109,-43.3128773,,2018-05-09 12:14:39
+1983,Cliente Vendas Prod. 1983,3.01.01,Vendas de Produtos,MG,MG_juiz de fora,-21.7541042,-43.3626371,,2018-05-09 15:37:00
+1984,Cliente Vendas Prod. 1984,3.01.01,Vendas de Produtos,BA,BA_salvador,-12.9626546,-38.461683,,2018-05-09 15:37:06
+1989,Cliente Vendas Prod. 1989,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,,2018-05-09 18:32:34
+1990,Cliente Vendas Prod. 1990,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,,2018-05-09 19:52:30
+1993,Cliente Vendas Prod. 1993,3.01.01,Vendas de Produtos,SP,SP_indaiatuba,-23.0958231,-47.2147898,,2018-05-09 20:55:39
+1994,Cliente Vendas Prod. 1994,3.01.01,Vendas de Produtos,SP,SP_piracicaba,-22.7258411,-47.6466219,,2018-05-10 12:56:00
+1995,Cliente Vendas Prod. 1995,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,,2018-05-11 09:39:18
+1996,Cliente Vendas Prod. 1996,3.01.01,Vendas de Produtos,SC,SC_correia pinto,-27.584161,-50.3662246,,2018-05-12 00:31:20
+1997,Cliente Vendas Prod. 1997,3.01.01,Vendas de Produtos,BA,BA_salvador,-12.9626546,-38.461683,,2018-05-12 03:15:11
+1999,Cliente Vendas Prod. 1999,3.01.01,Vendas de Produtos,GO,GO_luziania,-16.2269962,-47.9442762,,2018-05-12 09:14:41
+2000,Cliente Vendas Prod. 2000,3.01.01,Vendas de Produtos,SP,SP_sao roque,-23.535589,-47.1279016,,2018-05-12 19:35:22
+2001,Cliente Vendas Prod. 2001,3.01.01,Vendas de Produtos,SP,SP_espirito santo do pinhal,-22.1933525,-46.7529914,,2018-05-12 20:10:23
+2002,Cliente Vendas Prod. 2002,3.01.01,Vendas de Produtos,SP,SP_carapicuiba,-23.5455786,-46.8387756,,2018-05-12 22:36:23
+2003,Cliente Vendas Prod. 2003,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,,2018-05-15 09:58:39
+2004,Cliente Vendas Prod. 2004,3.01.01,Vendas de Produtos,RJ,RJ_rio de janeiro,-22.9149109,-43.3128773,,2018-05-15 12:34:54
+2005,Cliente Vendas Prod. 2005,3.01.01,Vendas de Produtos,RJ,RJ_angra dos reis,-22.9950533,-44.353285,,2018-05-15 20:55:50
+2006,Cliente Vendas Prod. 2006,3.01.01,Vendas de Produtos,DF,DF_brasilia,-15.8110727,-47.9717049,,2018-05-16 03:14:48
+2007,Cliente Vendas Prod. 2007,3.01.01,Vendas de Produtos,SP,SP_praia grande,-24.0214237,-46.4618239,,2018-05-16 03:33:57
+2008,Cliente Vendas Prod. 2008,3.01.01,Vendas de Produtos,SP,SP_ubatuba,-23.4529293,-45.0932194,,2018-05-16 03:35:20
+2009,Cliente Vendas Prod. 2009,3.01.01,Vendas de Produtos,RS,RS_ronda alta,-27.7822222,-52.8065005,,2018-05-16 08:53:26
+2014,Cliente Vendas Prod. 2014,3.01.01,Vendas de Produtos,SP,SP_osasco,-23.5365609,-46.7882836,,2018-05-16 16:38:52
+2015,Cliente Vendas Prod. 2015,3.01.01,Vendas de Produtos,MT,MT_sinop,-11.8583317,-55.5084633,,2018-05-17 02:37:14
+2017,Cliente Vendas Prod. 2017,3.01.01,Vendas de Produtos,PI,PI_teresina,-5.0826619,-42.7905688,,2018-05-18 02:36:18
+2018,Cliente Vendas Prod. 2018,3.01.01,Vendas de Produtos,SP,SP_andradina,-20.899218,-51.3773806,,2018-05-19 16:59:35
+2019,Cliente Vendas Prod. 2019,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,,2018-05-20 16:19:10
+2020,Cliente Vendas Prod. 2020,3.01.01,Vendas de Produtos,RJ,RJ_rio de janeiro,-22.9149109,-43.3128773,,2018-05-20 19:10:29
+2021,Cliente Vendas Prod. 2021,3.01.01,Vendas de Produtos,SP,SP_cajamar,-23.3695867,-46.8423215,,2018-05-20 19:50:44
+2022,Cliente Vendas Prod. 2022,3.01.01,Vendas de Produtos,MG,MG_uberaba,-19.7528239,-47.9358374,,2018-05-21 08:17:59
+2023,Cliente Vendas Prod. 2023,3.01.01,Vendas de Produtos,PI,PI_teresina,-5.0826619,-42.7905688,,2018-05-21 08:31:03
+2024,Cliente Vendas Prod. 2024,3.01.01,Vendas de Produtos,PR,PR_sao jose dos pinhais,-25.5309463,-49.1752908,,2018-05-22 08:56:50
+2025,Cliente Vendas Prod. 2025,3.01.01,Vendas de Produtos,SP,SP_guarulhos,-23.4464035,-46.4987685,,2018-05-22 09:14:33
+2026,Cliente Vendas Prod. 2026,3.01.01,Vendas de Produtos,SP,SP_bebedouro,-20.9438878,-48.4860917,,2018-05-22 12:56:18
+2027,Cliente Vendas Prod. 2027,3.01.01,Vendas de Produtos,RJ,RJ_rio de janeiro,-22.9149109,-43.3128773,,2018-05-22 13:36:03
+2028,Cliente Vendas Prod. 2028,3.01.01,Vendas de Produtos,SP,SP_vargem grande paulista,-23.6226334,-47.0127042,,2018-05-22 16:19:23
+2031,Cliente Vendas Prod. 2031,3.01.01,Vendas de Produtos,SP,SP_jandira,-23.5410609,-46.9034443,,2018-05-23 02:15:48
+2032,Cliente Vendas Prod. 2032,3.01.01,Vendas de Produtos,GO,GO_porangatu,-13.4389205,-49.1465585,,2018-05-23 14:37:15
+2033,Cliente Vendas Prod. 2033,3.01.01,Vendas de Produtos,SP,SP_santo andre,-23.6600311,-46.5219659,,2018-05-23 20:57:26
+2034,Cliente Vendas Prod. 2034,3.01.01,Vendas de Produtos,SP,SP_suzano,-23.5495295,-46.3095992,,2018-05-24 02:34:50
+2035,Cliente Vendas Prod. 2035,3.01.01,Vendas de Produtos,AL,AL_maceio,-9.6290925,-35.7312048,,2018-05-24 02:34:57
+2036,Cliente Vendas Prod. 2036,3.01.01,Vendas de Produtos,RJ,RJ_niteroi,-22.8939271,-43.0863353,,2018-05-25 09:54:53
+2038,Cliente Vendas Prod. 2038,3.01.01,Vendas de Produtos,PR,PR_araucaria,-25.5814215,-49.3880927,,2018-05-25 18:58:30
+2044,Cliente Vendas Prod. 2044,3.01.01,Vendas de Produtos,SP,SP_sao jose dos campos,-23.2108797,-45.8851865,,2018-05-29 03:14:44
+2045,Cliente Vendas Prod. 2045,3.01.01,Vendas de Produtos,RJ,RJ_rio de janeiro,-22.9149109,-43.3128773,,2018-05-29 03:14:46
+2046,Cliente Vendas Prod. 2046,3.01.01,Vendas de Produtos,SP,SP_leme,-22.1852882,-47.3856211,,2018-05-29 09:15:38
+2047,Cliente Vendas Prod. 2047,3.01.01,Vendas de Produtos,SP,SP_guarulhos,-23.4464035,-46.4987685,,2018-05-29 13:18:56
+2048,Cliente Vendas Prod. 2048,3.01.01,Vendas de Produtos,BA,BA_camamu,-13.9498922,-39.1116694,,2018-05-29 15:32:35
+2049,Cliente Vendas Prod. 2049,3.01.01,Vendas de Produtos,SP,SP_campinas,-22.9008682,-47.0685368,,2018-05-31 10:30:45
+2050,Cliente Vendas Prod. 2050,3.01.01,Vendas de Produtos,SP,SP_maua,-23.6699938,-46.4489087,,2018-06-01 09:12:23
+2051,Cliente Vendas Prod. 2051,3.01.01,Vendas de Produtos,PR,PR_curitiba,-25.453054,-49.2749963,,2018-06-01 15:31:52
+2052,Cliente Vendas Prod. 2052,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,,2018-06-01 17:31:27
+2055,Cliente Vendas Prod. 2055,3.01.01,Vendas de Produtos,PR,PR_uniao da vitoria,-26.2297967,-51.0825457,,2018-06-01 23:11:50
+2056,Cliente Vendas Prod. 2056,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,,2018-06-02 15:50:02
+2057,Cliente Vendas Prod. 2057,3.01.01,Vendas de Produtos,SP,SP_jacupiranga,-24.7018312,-48.0051842,,2018-06-04 06:35:09
+2058,Cliente Vendas Prod. 2058,3.01.01,Vendas de Produtos,MT,MT_colider,-10.8074368,-55.4575001,,2018-06-15 18:22:01
+2059,Cliente Vendas Prod. 2059,3.01.01,Vendas de Produtos,PA,PA_belem,-1.4182009,-48.4695107,,2018-06-16 08:58:54
+2061,Cliente Vendas Prod. 2061,3.01.01,Vendas de Produtos,PB,PB_joao pessoa,-7.132032,-34.851423,,2018-06-18 06:59:34
+2062,Cliente Vendas Prod. 2062,3.01.01,Vendas de Produtos,MG,MG_belo horizonte,-19.9087721,-43.9575494,,2018-06-18 19:21:17
+2063,Cliente Vendas Prod. 2063,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,,2018-06-19 03:57:28
+2064,Cliente Vendas Prod. 2064,3.01.01,Vendas de Produtos,SP,SP_botucatu,-22.8821125,-48.4470122,,2018-06-19 09:18:23
+2065,Cliente Vendas Prod. 2065,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,,2018-06-19 09:36:46
+2066,Cliente Vendas Prod. 2066,3.01.01,Vendas de Produtos,RJ,RJ_rio de janeiro,-22.9149109,-43.3128773,,2018-06-20 02:37:51
+2067,Cliente Vendas Prod. 2067,3.01.01,Vendas de Produtos,RJ,RJ_campos dos goytacazes,-21.7613591,-41.3206795,,2018-06-21 01:17:18
+2068,Cliente Vendas Prod. 2068,3.01.01,Vendas de Produtos,MG,MG_pocos de caldas,-21.7971179,-46.5642443,,2018-06-21 04:36:09
+2069,Cliente Vendas Prod. 2069,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,,2018-06-21 17:18:41
+2071,Cliente Vendas Prod. 2071,3.01.01,Vendas de Produtos,SP,SP_sao jose dos campos,-23.2108797,-45.8851865,,2018-06-22 02:58:53
+2072,Cliente Vendas Prod. 2072,3.01.01,Vendas de Produtos,RJ,RJ_niteroi,-22.8939271,-43.0863353,,2018-06-23 12:34:58
+2073,Cliente Vendas Prod. 2073,3.01.01,Vendas de Produtos,ES,ES_vila velha,-20.359658,-40.3102169,,2018-06-24 09:56:27
+2075,Cliente Vendas Prod. 2075,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,,2018-06-24 18:15:17
+2076,Cliente Vendas Prod. 2076,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,,2018-06-24 23:34:12
+2078,Cliente Vendas Prod. 2078,3.01.01,Vendas de Produtos,RS,RS_porto alegre,-30.0492523,-51.1885815,,2018-06-25 17:08:09
+2079,Cliente Vendas Prod. 2079,3.01.01,Vendas de Produtos,SP,SP_botucatu,-22.8821125,-48.4470122,,2018-06-25 20:34:14
+2080,Cliente Vendas Prod. 2080,3.01.01,Vendas de Produtos,SP,SP_guarulhos,-23.4464035,-46.4987685,,2018-06-26 07:13:02
+2083,Cliente Vendas Prod. 2083,3.01.01,Vendas de Produtos,SP,SP_santo andre,-23.6600311,-46.5219659,,2018-06-26 17:35:56
+2084,Cliente Vendas Prod. 2084,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,,2018-06-27 08:11:38
+2087,Cliente Vendas Prod. 2087,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,,2018-06-27 08:53:26
+2088,Cliente Vendas Prod. 2088,3.01.01,Vendas de Produtos,MG,MG_paracatu,-17.2310338,-46.8689662,,2018-06-27 08:55:36
+2089,Cliente Vendas Prod. 2089,3.01.01,Vendas de Produtos,ES,ES_vila velha,-20.359658,-40.3102169,,2018-06-28 10:50:22
+2090,Cliente Vendas Prod. 2090,3.01.01,Vendas de Produtos,RJ,RJ_rio de janeiro,-22.9149109,-43.3128773,,2018-07-05 16:04:19
+2091,Cliente Vendas Prod. 2091,3.01.01,Vendas de Produtos,SP,SP_guararema,-23.4049155,-46.04307,,2018-07-05 16:31:11
+2092,Cliente Vendas Prod. 2092,3.01.01,Vendas de Produtos,SP,SP_sao joao da boa vista,-21.9782746,-46.790505,,2018-07-07 13:35:13
+2093,Cliente Vendas Prod. 2093,3.01.01,Vendas de Produtos,RJ,RJ_sao joao de meriti,-22.7861265,-43.3698464,,2018-07-07 14:05:47
+2096,Cliente Vendas Prod. 2096,3.01.01,Vendas de Produtos,MA,MA_sao luis,-2.5305847,-44.2542139,,2018-07-08 10:30:15
+2097,Cliente Vendas Prod. 2097,3.01.01,Vendas de Produtos,BA,BA_salvador,-12.9626546,-38.461683,,2018-07-08 12:35:14
+2098,Cliente Vendas Prod. 2098,3.01.01,Vendas de Produtos,RJ,RJ_marica,-22.9270707,-42.8660888,,2018-07-08 22:50:21
+2099,Cliente Vendas Prod. 2099,3.01.01,Vendas de Produtos,SP,SP_santana de parnaiba,-23.4522718,-46.8801716,,2018-07-09 15:25:13
+2100,Cliente Vendas Prod. 2100,3.01.01,Vendas de Produtos,MG,MG_botelhos,-21.6471444,-46.3984722,,2018-07-10 17:32:18
+2101,Cliente Vendas Prod. 2101,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,,2018-07-11 09:10:11
+2102,Cliente Vendas Prod. 2102,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,,2018-07-11 14:50:15
+2104,Cliente Vendas Prod. 2104,3.01.01,Vendas de Produtos,RJ,RJ_niteroi,-22.8939271,-43.0863353,,2018-07-12 19:15:14
+2105,Cliente Vendas Prod. 2105,3.01.01,Vendas de Produtos,RJ,RJ_rio de janeiro,-22.9149109,-43.3128773,,2018-07-14 16:55:25
+2106,Cliente Vendas Prod. 2106,3.01.01,Vendas de Produtos,RJ,RJ_rio de janeiro,-22.9149109,-43.3128773,,2018-07-15 18:45:11
+2107,Cliente Vendas Prod. 2107,3.01.01,Vendas de Produtos,PA,PA_belem,-1.4182009,-48.4695107,,2018-07-16 22:10:12
+2108,Cliente Vendas Prod. 2108,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,,2018-07-17 10:31:01
+2111,Cliente Vendas Prod. 2111,3.01.01,Vendas de Produtos,RJ,RJ_rio de janeiro,-22.9149109,-43.3128773,,2018-07-17 22:05:16
+2112,Cliente Vendas Prod. 2112,3.01.01,Vendas de Produtos,MG,MG_belo horizonte,-19.9087721,-43.9575494,,2018-07-18 11:30:16
+2113,Cliente Vendas Prod. 2113,3.01.01,Vendas de Produtos,RJ,RJ_rio de janeiro,-22.9149109,-43.3128773,,2018-07-19 02:45:20
+2119,Cliente Vendas Prod. 2119,3.01.01,Vendas de Produtos,SC,SC_criciuma,-28.684533,-49.3775047,,2018-07-19 02:50:08
+2120,Cliente Vendas Prod. 2120,3.01.01,Vendas de Produtos,SP,SP_bauru,-22.3266828,-49.0666825,,2018-07-19 15:10:11
+2121,Cliente Vendas Prod. 2121,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,,2018-07-19 15:45:20
+2122,Cliente Vendas Prod. 2122,3.01.01,Vendas de Produtos,RJ,RJ_rio de janeiro,-22.9149109,-43.3128773,,2018-07-20 04:55:26
+2123,Cliente Vendas Prod. 2123,3.01.01,Vendas de Produtos,RJ,RJ_rio de janeiro,-22.9149109,-43.3128773,,2018-07-20 04:55:27
+2124,Cliente Vendas Prod. 2124,3.01.01,Vendas de Produtos,RN,RN_parnamirim,-5.9007843,-35.2313476,,2018-07-20 16:24:23
+2125,Cliente Vendas Prod. 2125,3.01.01,Vendas de Produtos,RJ,RJ_rio de janeiro,-22.9149109,-43.3128773,,2018-07-20 20:25:13
+2127,Cliente Vendas Prod. 2127,3.01.01,Vendas de Produtos,RJ,RJ_rio de janeiro,-22.9149109,-43.3128773,,2018-07-21 13:03:58
+2128,Cliente Vendas Prod. 2128,3.01.01,Vendas de Produtos,SP,SP_fernandopolis,-20.2840361,-50.2498095,,2018-07-23 12:32:15
+2129,Cliente Vendas Prod. 2129,3.01.01,Vendas de Produtos,SP,SP_franca,-20.5340568,-47.3984366,,2018-07-24 11:32:33
+2130,Cliente Vendas Prod. 2130,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,,2018-07-24 11:32:55
+2131,Cliente Vendas Prod. 2131,3.01.01,Vendas de Produtos,RJ,RJ_rio de janeiro,-22.9149109,-43.3128773,,2018-07-25 12:05:58
+2132,Cliente Vendas Prod. 2132,3.01.01,Vendas de Produtos,RJ,RJ_rio de janeiro,-22.9149109,-43.3128773,,2018-07-25 22:30:21
+2134,Cliente Vendas Prod. 2134,3.01.01,Vendas de Produtos,RS,RS_alegrete,-29.7895726,-55.7912865,,2018-07-26 03:15:20
+2135,Cliente Vendas Prod. 2135,3.01.01,Vendas de Produtos,SP,SP_santana de parnaiba,-23.4522718,-46.8801716,,2018-07-26 03:15:22
+2136,Cliente Vendas Prod. 2136,3.01.01,Vendas de Produtos,SP,SP_nova granada,-20.5363871,-49.3208557,,2018-07-27 02:24:29
+2137,Cliente Vendas Prod. 2137,3.01.01,Vendas de Produtos,SE,SE_aracaju,-10.9413464,-37.0672781,,2018-07-30 23:31:43
+2138,Cliente Vendas Prod. 2138,3.01.01,Vendas de Produtos,RJ,RJ_rio de janeiro,-22.9149109,-43.3128773,,2018-07-31 15:31:39
+2142,Cliente Vendas Prod. 2142,3.01.01,Vendas de Produtos,SP,SP_amparo,-22.7083348,-46.779827,,2018-08-01 03:32:21
+2143,Cliente Vendas Prod. 2143,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,,2018-08-01 18:55:16
+2144,Cliente Vendas Prod. 2144,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,,2018-08-01 19:03:54
+2145,Cliente Vendas Prod. 2145,3.01.01,Vendas de Produtos,BA,BA_jeremoabo,-9.9538055,-38.6714366,,2018-08-02 14:04:11
+2146,Cliente Vendas Prod. 2146,3.01.01,Vendas de Produtos,PE,PE_jaboatao dos guararapes,-8.1557335,-34.9499036,,2018-08-03 02:50:37
+2147,Cliente Vendas Prod. 2147,3.01.01,Vendas de Produtos,SP,SP_jardinopolis,-21.0255418,-47.7727462,,2018-08-06 21:55:19
+2148,Cliente Vendas Prod. 2148,3.01.01,Vendas de Produtos,SP,SP_mogi das cruzes,-23.5304016,-46.193888,,2018-08-07 08:35:14
+2151,Cliente Vendas Prod. 2151,3.01.01,Vendas de Produtos,SP,SP_limeira,-22.573479,-47.4084792,,2018-08-07 11:15:20
+2152,Cliente Vendas Prod. 2152,3.01.01,Vendas de Produtos,SP,SP_sao paulo,-23.5708602,-46.6332417,,2018-08-07 19:24:55
+2153,Cliente Vendas Prod. 2153,3.01.01,Vendas de Produtos,ES,ES_colatina,-19.5298443,-40.6395611,,2018-08-08 03:10:34
