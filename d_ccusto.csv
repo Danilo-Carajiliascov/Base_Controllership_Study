@@ -67,14 +67,16 @@ centro_de_custo,descr_ccusto,categoria_ccusto,classif_ccusto,ccusto
 3.05.70,Comercial,Investimentos,Administrativo,.05.70
 3.09.01,Embalagens Retornaveis,Simples Remessa,Simples Remessa,.09.01
 3.09.02,Beneficiamento,Simples Remessa,Simples Remessa,.09.02
-3.09.03,Concerto/Manutencao,Simples Remessa,Simples Remessa,.09.03
+3.09.03,Conserto/Manutencao,Simples Remessa,Simples Remessa,.09.03
 3.09.04,Comodato,Simples Remessa,Simples Remessa,.09.04
 3.09.05,Amostra/Demonstracao,Simples Remessa,Simples Remessa,.09.05
 3.09.06,Devolucao de Prod. com Nf de Origem     ,Simples Remessa,Simples Remessa,.09.06
 3.09.07,Transf Bens Filial/Matriz,Simples Remessa,Simples Remessa,.09.07
 3.09.08,Transf Numerarios Filial/Matriz,Simples Remessa,Simples Remessa,.09.08
-3.09.09,Pgto Principal Financiamentos,Simples Remessa,Simples Remessa,.09.09
-3.09.10,Baixa zerada para financiamento,Simples Remessa,Simples Remessa,.09.10
+3.09.09,Pgto Principal Financiamentos,Parcel./Financ.,Parcel./Financ.,.09.09
+3.09.10,Baixa zerada para financiamento,Parcel./Financ.,Parcel./Financ.,.09.10
+3.09.11,Saldo credor Tributos,Parcel./Financ.,Parcel./Financ.,.09.09
+3.09.12,Baixa zerada para Ctas a Pagar,Parcel./Financ.,Parcel./Financ.,.09.10
 4.01.01,Móveis de Escritório/Sala/Decoração,Receita,Direto,.01.01
 4.01.02,Frete de Vendas,Gastos Gerais,Direto,.01.02
 4.01.03,"ISS, ICMS,IBS,PIS, COFINS,CBS, IPI,IS",Tributos Indiretos,Direto,.01.03
@@ -143,11 +145,13 @@ centro_de_custo,descr_ccusto,categoria_ccusto,classif_ccusto,ccusto
 4.05.70,Comercial,Investimentos,Administrativo,.05.70
 4.09.01,Embalagens Retornaveis,Simples Remessa,Simples Remessa,.09.01
 4.09.02,Beneficiamento,Simples Remessa,Simples Remessa,.09.02
-4.09.03,Concerto/Manutencao,Simples Remessa,Simples Remessa,.09.03
+4.09.03,Conserto/Manutencao,Simples Remessa,Simples Remessa,.09.03
 4.09.04,Comodato,Simples Remessa,Simples Remessa,.09.04
 4.09.05,Amostra/Demonstracao,Simples Remessa,Simples Remessa,.09.05
 4.09.06,Devolucao de Prod. com Nf de Origem     ,Simples Remessa,Simples Remessa,.09.06
 4.09.07,Transf Bens Filial/Matriz,Simples Remessa,Simples Remessa,.09.07
 4.09.08,Transf Numerarios Filial/Matriz,Simples Remessa,Simples Remessa,.09.08
 4.09.09,Pgto Principal Financiamentos,Parcel./Financ.,Parcel./Financ.,.09.09
-4.09.10,Baixa zerada para financiamento,Simples Remessa,Simples Remessa,.09.10
+4.09.10,Baixa zerada para financiamento,Parcel./Financ.,Parcel./Financ.,.09.10
+4.09.11,Saldo credor Tributos,Parcel./Financ.,Parcel./Financ.,.09.09
+4.09.12,Baixa zerada para Ctas a Receber,Parcel./Financ.,Parcel./Financ.,.09.10
